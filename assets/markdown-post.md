@@ -1,10 +1,4 @@
----
-toc: true
-layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [markdown]
-title: An Example Markdown Post
----
+
 # Example Markdown Post
 
 ## Basic setup
@@ -51,7 +45,7 @@ And a numbered list:
 
 ## Code
 
-You can format text and code per usual 
+You can format text and code per usual
 
 General preformatted text:
 
@@ -100,4 +94,3 @@ key: value
 
 
 [^1]: This is the footnote.
-
