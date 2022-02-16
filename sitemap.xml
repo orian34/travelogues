@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://orian34.github.io/travelogues/talk/2022/02/16/alpha.html</loc>
+<loc>https://orian34.github.io/travelogues/talk/alpha.html</loc>
+<lastmod>2022-02-15T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://orian34.github.io/travelogues/talk/ctm/minecraft/ctm.html</loc>
 <lastmod>2022-02-16T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://orian34.github.io/travelogues/talk/ctm/minecraft/2022/02/16/ctm.html</loc>
-<lastmod>2022-02-16T00:00:00-06:00</lastmod>
+<loc>https://orian34.github.io/travelogues/saturnine/</loc>
+<lastmod>2022-02-17T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://orian34.github.io/travelogues/about/</loc>
