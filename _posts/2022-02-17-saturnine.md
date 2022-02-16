@@ -10,10 +10,10 @@ search_exclude: true
 hide: true
 ---
 >Author: ZeyD_
-Origin: TBD
+>Origin: TBD
 
 # Presentation
-Saturnine Memories is a medium length [CTM](https://orian34.github.io/travelogues/talk/ctm/minecraft/2022/02/16/ctm.html) map. It is in hub style with all areas available from the monument area.
+Saturnine Memories is a medium length [CTM](https://orian34.github.io/travelogues/ctm/) map. It is in hub style with all areas available from the monument area.
 
 This was done with a beta version, so some things might have changed since.
 
@@ -65,7 +65,7 @@ The hyper cousin of Horrifeye's last area, which are legally unaffiliated, holds
 The use of keys was appropriate for the layout and was clear enough to avoid ending at a loss.
 Void was present, but never as an unfair threat.
 # Conclusion
-![]({{ site.baseurl }}/images/ctm/sat/satw.png)
+![]({{ site.baseurl }}/images/ctm/sat/satw.png "Victory!")
 For starters, everything looks breathtaking. The building style has clear inspirations from Ragecraft and Simulation Protocol and it looks gorgeous.
 It is clear that artistic direction is the main strength here, but the custom items and mobs weren't half bad either.
 
