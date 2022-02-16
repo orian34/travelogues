@@ -122,5 +122,11 @@ feed:
   posts_limit: 10 #default posts_limit: 10
   excerpt_only: true
 
+plugins:
+  - jekyll-feed
+title: Travelogues Blog
+description: All the lastest entries
+author: orian34
+
 exclude:
   - settings.ini
