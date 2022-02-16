@@ -5,12 +5,10 @@ description: In-depth feedback and overview of a map.
 categories: [review, ctm, minecraft]
 title: Review of Saturnine Memories
 image: images/ctm/sat/sat.png
-permalink: /saturnine/
 search_exclude: true
 hide: true
 ---
->Author: ZeyD_
->Origin: TBD
+>Author: ZeyD_ \nOrigin: TBD
 
 # Presentation
 Saturnine Memories is a medium length [CTM](https://orian34.github.io/travelogues/ctm/) map. It is in hub style with all areas available from the monument area.
