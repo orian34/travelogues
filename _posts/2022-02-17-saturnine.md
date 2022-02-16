@@ -8,7 +8,8 @@ image: images/ctm/sat/sat.png
 search_exclude: true
 hide: true
 ---
->Author: ZeyD_ \nOrigin: TBD
+>Author: ZeyD_  
+Origin: TBD
 
 # Presentation
 Saturnine Memories is a medium length [CTM](https://orian34.github.io/travelogues/ctm/) map. It is in hub style with all areas available from the monument area.
@@ -17,14 +18,14 @@ This was done with a beta version, so some things might have changed since.
 
 # Overview
 ### Monument
-![]({{ site.baseurl }}/images/ctm/sat/sat2.png)
+![]({{ site.baseurl }}/images/ctm/sat/sat2.png "A well defended home.")
 The start is nice and chill, with no lack of resources although we don't have access to stone yet.
 The elite mob just incentivized not fighting it because of corpse crawler and I ended up sending them into holes.
 
 Bigger than usual monument areas, it's a nice central hub although with some extra walking.
 I do have to complain about the bonus monument and trader being too far from the base.
 ### Green
-![]({{ site.baseurl }}/images/ctm/sat/sat3.png)
+![]({{ site.baseurl }}/images/ctm/sat/sat3.png "Lush and vibrant jungle.")
 This area has an interesting mix of paths, buildings and temple to explore. But it's not perfect as it lacks variance in those, after clearing a few buildings you'll know the rest of them.
 It could benefit from having more handmade details to differentiate each, the human brain is very susceptible to repetition because it lowers the stimulation due to known patterns.
 Reaching the temple is refreshing.
@@ -34,7 +35,7 @@ The inside of the temple also has some mirroring, but much less.
 
 The mobs were all fine except the archers, which were annoying to deal with since they completely negated melee. This early in the map, it would've been preferable to have a lesser effect or another type. The golden sword was great.
 ### Cyan
-![]({{ site.baseurl }}/images/ctm/sat/sat4.png)
+![]({{ site.baseurl }}/images/ctm/sat/sat4.png "No smurfs living here...")
 Here, the variance was better due to the path, but inversely, I feel like it could've had more building gameplay. Better details but lower level variance.
 Despite how confusing it looks, there is a main path to follow which leads to the objective. I feel sorry for the player if he decides to skip around the road though.
 
@@ -43,20 +44,20 @@ I appreciate the waterfalls to get back to where we are if we die, it really pre
 Despite being stronger, the archers felt better to fight because they would die without too much trouble, unlike the previous area.
 Found the best helmet as well.
 ### Light Gray
-![]({{ site.baseurl }}/images/ctm/sat/sat5.png)
+![]({{ site.baseurl }}/images/ctm/sat/sat5.png "Lava mine, a staple!")
 My favorite area, it was fun and the mobs are nice(yes even the vexes!) to fight.
 It has great items, good mix of tunnels, platforms, mines and dungeon layout. And a strider safari bit, although it sadly isn't really part of the path, it's only for extra exploration.
 The shortcut use was smart although the placement of the crossroad can lead the player to just pillar up since the path leads away from the castle.
 
 The only and best eruption pickaxe of the map.
 ### Black
-![]({{ site.baseurl }}/images/ctm/sat/sat6.png)
+![]({{ site.baseurl }}/images/ctm/sat/sat6.png "The tower of Swine.")
 This area has the best visuals. The town in the fortress outskirts has fun personalization of the buildings. Although comes back the problem from Green, it lacks variance for the interiors in gameplay.
 The upper fortress was great and the mean invisible crawling labyrinth was worth the torture!
 
 Combat was a bit let down for me, with mostly tanky mobs and no effective weapon(except a rare one).
 ### Red
-![]({{ site.baseurl }}/images/ctm/sat/sat7.png)
+![]({{ site.baseurl }}/images/ctm/sat/sat7.png "Nom nom nom...")
 And so comes the final showdown. And if the previous area was the best visually, this one has the best vibe(the heartbeats were great).
 The hyper cousin of Horrifeye's last area, which are legally unaffiliated, holds the toughest combat and best gear.
 
