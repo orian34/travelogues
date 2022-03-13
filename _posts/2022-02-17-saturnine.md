@@ -7,7 +7,7 @@ title: Review of Saturnine Memories
 image: images/ctm/sat/sat.png
 ---
 >Author: ZeyD_  
-Origin: https://zeydmaps.wordpress.com/saturnine-memories/
+Origin: [](https://zeydmaps.wordpress.com/saturnine-memories/)
 
 # Presentation
 Saturnine Memories is a medium length [CTM](https://orian34.github.io/travelogues/ctm/) map. It is in hub style with all areas available from the monument area.
