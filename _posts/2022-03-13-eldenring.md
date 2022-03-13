@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Documented experience and shared feelings through the game.
 categories: [walkthrough, game]
-title: Walking Through: Elden Ring
+title: Walking Through Elden Ring
 image: images/modpack/sky4/thb.png #change that
 search_exclude: true
 hide: true
