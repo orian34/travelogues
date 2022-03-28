@@ -21,7 +21,7 @@ Thus starts the adventure in this world, my eyes lay on the surroundings, showin
 The most important goal right now is to quickly clear up space for a small camp, to prepare the base of operations. Gathering some flint from the nearby waterside, I obtained a full set of simple tools ready for use.
 ![]({{ site.baseurl }}/images/modpack/e2e/a2.png "The first night came, but I was ready.")
 I quickly got to work and set up a basic smeltery to mold some metal parts and upgrade my tools. The mine goes deeper and I find more and more ores to various uses, even some diamonds!
-![]({{ site.baseurl }}/images/modpack/e2e/a2.png "Metal progression isn't a major concern here.")
+![]({{ site.baseurl }}/images/modpack/e2e/a3.png "Metal progression isn't a major concern here.")
 While digging, I find some vis crystals so I decide to spend more time in researching that field. Advances in technology progress fast on the side, with upgrade kits allowing me to open a portal to the nether and bringing the hell ores back.
 ![]({{ site.baseurl }}/images/modpack/e2e/a4.png "Looming in the distance, oily sands all around.")
 ### Power, Mysticism and Astrology
@@ -94,7 +94,7 @@ The tank here, the neutron fluid is now a joke that I can infinitely produce, ha
 ![]({{ site.baseurl }}/images/modpack/e2e/i2.png "All the means are good when it's about those...")
 More singularities, more! Hahahahaha, hahaha, hahahahahahaaaa... AAAAAAAH! To avoid becoming insane, I clear out all the remaining quests in all the stages I haven't yet completed. This is the last sliver of sanity I can preserve. All these efforts leading to making more ultimate singularities and the remaining elements...
 ![]({{ site.baseurl }}/images/modpack/e2e/i3.png "What do you mean this isn't part of the ritual?")
-Everything culminates to make the ultimate ingot... which can be duplicated using the tank! This huge step done, I can fairly easy make the creative power cell for infinite RF, and making the creative gas tank is fairly easy too. Then the final step, after major lag to autocraft the tier 6 solar generators, the creative vending upgrade, which allows to duplicate items without restrictions. The pack is basically over at this point.
+Everything culminates to make the ultimate ingot... which can be duplicated using the tank! This huge step done, I can fairly easy make the creative power cell for infinite RF, and making the creative gas tank is simple too. Then the final step, after major lag to autocraft the tier 6 solar generators, the creative vending upgrade, which allows duplicating items without restrictions. The pack is basically over at this point!
 ![]({{ site.baseurl }}/images/modpack/e2e/i4.png "Completing all the remaining quests is child's play.")
 # Conclusion
 This is it then, I'll be honest, I didn't remember every twist and turn but hopefully this retelling was accurate enough to be enjoyable.
