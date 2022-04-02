@@ -31,7 +31,7 @@ A small step for tech, a leap for magic. I setup a very simple mana production, 
 ![]({{ site.baseurl }}/images/modpack/e2e/b2.png "Dovahkiin, Dovahkiin, naal ok zin los vahriin!")
 My expedition yielded some precious materials, and for the first time ever I learned how to use rituals! I use them to boost my crop growth to great effect, and I'm sure this will end up a major tool later on... Another trip to the nether and my blood altar receives a lot of upgrades, efficiency primes!
 ![]({{ site.baseurl }}/images/modpack/e2e/b3.png "Obtaining various means, but I'm too inexperienced to make good use of it.")
-My first terrasteel made, I decide it's the right time to setup a mob farm since I have all the tools available and a mob slaughter factory. I used the solar panel from a loot crate and it's good enough at this stage.
+My first terrasteel made, I decide it's the right time to setup a mob farm since I have all the tools available and a mob slaughter factory. I use a solar panel from a loot crate and it's good enough to sustain it at this stage.
 ![]({{ site.baseurl }}/images/modpack/e2e/b4.png "The costly door to another world.")
 ### The End of Beginnings
 All the required elements assembled, two portals could be opened, the most important one leading to the End. Having astral gateways is really handy, huh... With a slew of new materials available, I continue on my endeavors, with some risky experimentation and electrical upgrades.
