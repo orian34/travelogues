@@ -222,6 +222,9 @@ crafting is underexploited for the importance ingredients have in the loot. I wi
 The open world is quite great; although it can feel large to explore, with not every corner worth going into. On the other hand, it makes for amazing feeling and views.
 Minor dungeons could have used some more hand customization.
 
+
+losing the tightknit feel, scale is too large
+
 <script src="https://utteranc.es/client.js"
         repo="orian34/travelogues"
         issue-term="title"
