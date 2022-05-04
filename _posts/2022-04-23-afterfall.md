@@ -5,11 +5,9 @@ description: In-depth feedback and overview of the map.
 categories: [review, ctm, minecraft]
 title: Review of Afterfall
 image: images/ctm/aff/thb.png
-search_exclude: true
-hide: true
 ---
 >Author: Gizmo & Cango  
-Origin: [Map Link]()
+Origin: [Map Link](https://ctm.community/map/385/afterfall)
 
 # Presentation
 Afterfall is a short-medium [CTM](https://orian34.github.io/travelogues/ctm/) map. It is an open world with custom mechanics and textures.
