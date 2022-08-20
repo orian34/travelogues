@@ -5,8 +5,6 @@ description: Documented experience and shared feelings through the game.
 categories: [walkthrough, game]
 title: Walking Through Elden Ring
 image: images/game/elden/thb.png
-search_exclude: true
-hide: true
 ---
 >Author: FromSoftware  
 Origin: [Steam Link](https://store.steampowered.com/app/1245620/ELDEN_RING/)
@@ -209,21 +207,43 @@ I will become the lord of the frenzied flame!
 ![]({{ site.baseurl }}/images/game/elden/r3.png "And the world is flame.")
 I never expected I would end it like this, but after all why not? Melina is on my tracks.
 ![]({{ site.baseurl }}/images/game/elden/r4.png "I know who you are now...")
-### Post
-Surely you didn't think I would stop at this right? I plan to get all the endings, and even find all the unique items. Need to see it all! But this is a story for another time as I have to wait at least a month before the wiki has updated enough.
-
+### Rebirth
+Surely you didn't think I would stop at this right? I plan to get all the endings, and even find all the unique items. Need to see it all! But this is a story for another time as I have to wait at least a few months before the wiki has updated enough.
+![]({{ site.baseurl }}/images/game/elden/s1.png "The victory lap.")
+Back at it again! It was a long while, and time for the big census! Took me more than a day, but managed to file a list with exactly 410 remaining items to find. It was a long journey, but finally the end was reached! I'll spare the details as it wouldn't be anything new, and mostly involved some grinding and running the world, but it was a nice closure...
+![]({{ site.baseurl }}/images/game/elden/s2.png "Restoring the natural order as my final move.")
+Not! To top it off, I decided to start a randomizer run because I heard it was well-made. It ended up being a really fun experience! Took the opportunity to try out a wildly different build: two handed greatsword. No more magic tricks, it's melee time!
+![]({{ site.baseurl }}/images/game/elden/s3.png "Summary execution.")
+Everything being changed around kept the gameplay at the center, and it really is the shining glory of the game. I learned to fight many of the bosses that gave me a hard time before. The new build really pushed me to learn the patterns fully and it was quite enjoyable!
+![]({{ site.baseurl }}/images/game/elden/s4.png "The final mountain to overcome!")
 # Conclusion
-combat evolved in a great way, player got stronger tools with guard counter and poise as a substantial mechanic, need to open up the enemies proactively now since they won't wait for you anymore.
-the story bosses have phases that are triggered halfway through their health, which is a huge step up from the "yet another final form" that tended to happen once the health was down. Now it's clearly telegraphed when the fight is over.
-Jumping really changes how you can walk around and explore, that was a huge annoyance in previous games.
+The first and most important point I would say is that it's important to keep in mind it isn't Dark Souls, and while a lot of aspects are similar, it wasn't designed as such. The open world and scale have a completely different goal, and while you lose the tightknit feel of previous games, the exploration aspect definitely gained. The dungeons keep the contained design, but the outside is a lot more about free roaming and exploring to beautiful vistas.
+
+Due to the increased scope, there's obviously going to be asset reuse, and while I don't mind it too much seeing bosses as enemies later on, I feel like minor dungeons could have used some more hand crafting in the layouts. A few more variants in the room and passage types could have been great.
+
 All the tools available and the open worldness of the game are a great way of allowing a modular experience, allowing players to make it as hard to themselves as they want, without making it uncompromising to less experienced players. It still kept the same soul as previous games and won't pull punches either. The easy mode is already here!
-lacking ng+
-crafting is underexploited for the importance ingredients have in the loot. I wish more pick ups were golden runes.
-The open world is quite great; although it can feel large to explore, with not every corner worth going into. On the other hand, it makes for amazing feeling and views.
-Minor dungeons could have used some more hand customization.
 
+Although all this modularity isn't perfect either, crafting is underexploited for the importance and frequency ingredients have in the looting. You'll rarely make anything more than a few basic necessities unless you force your build to use it, not to mention shops cover most of the frequent needs. Maybe it should have been integrated into making weapons and armor and improving your gear, instead of only using smithing stones.
+Because of this, I wish more pick ups were golden runes, which is the least interesting loot yet still universal. Also, greases became useless due to ashes of war replacing their use as a timeless upgrade you can add. Maybe if there was less overlap, it could be still interesting to use.
 
-losing the tightknit feel, scale is too large
+I didn't mention the story and lore a whole lot, and that's because it can be very easily ignored, although I personally liked having some things to wonder about. You either care or don't, it is mostly a vast world that existed before you.
+
+The horse is quite good and has a lot of quality of life compared to other games. Even on foot, jumping really changes how you can walk around and explore, that was a huge hindrance in previous games and it even adds to the combat now.
+
+Combat evolved in a great way overall, player got stronger tools with guard-counter and poise-breaking as substantial mechanics, needing to open up the enemies proactively now since they won't wait for you anymore. Even with my sorcery build, it was engaging and felt like I was playing the game (even if at some points I took the brainless easy mode).
+
+I really liked how most story bosses had phases that are triggered halfway through their health, which is a huge step up from the "yet another final form" that used to happen once the health was down. Now it's clearly telegraphed when the fight is over, barring a few exceptions(the final boss being the most obvious and understandable one).
+
+Something that did disappoint me on the other hand, is the terribly lacking new game +. I've noticed the trend on the Dark Souls games over time to have less new content on NG+ onwards, especially with the achievements which devolved from "gather most of the unique things" to simply "beat the bosses and reach the different endings". There's not even new talismans to find anymore, in Elden Ring the only thing you'll have to do is do the other endings and whatever you might have missed the first time. The legendary items collection is laughable when you realize there's less items to get for each than we have fingers.
+
+Anyway, that was just my personal annoyance, the main strength of the game lies within the gameplay feel and replayability - this is where the randomizer comes into play. The game is so large and diverse that it's physically impossible to try out everything and experience things properly that way. Having things scrambled unpredictably means you'll be kept on your toes and forced to try out new strategies on each run.
+
+I've done only one run and am already itching to try a new one(which will likely happen at some point), the combat has become addictive for me... I highly recommend [trying out the randomizer](https://www.nexusmods.com/eldenring/mods/428?tab=description) after clearing the base game, it duplicates the fun of playing it again!
+
+So yes this game is great, and like all the other Fromsoft games, has flaws and clunkiness which are overshadowed by all the good parts.
+
+Easily one of the best games I've ever played.
+![]({{ site.baseurl }}/images/game/elden/win.png "Don't hesitate any longer.")
 
 <script src="https://utteranc.es/client.js"
         repo="orian34/travelogues"
