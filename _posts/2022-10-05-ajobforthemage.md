@@ -6,7 +6,7 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through A Job for the Mage - Flashback Edition
 image: images/modpack/jobmage/thb.png
 ---
->Author: fungidelight
+>Author: fungidelight  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/a-job-for-the-mage)
 
 It's the beginning of a new adventure, and this time we're going to delve into the A Job for the Mage modpack. This pack is about fulfilling tasks for our magic school, following an interesting storyline.
