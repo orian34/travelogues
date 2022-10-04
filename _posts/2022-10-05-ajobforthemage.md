@@ -16,7 +16,7 @@ Now then, there are many worlds to discover as we become a master of our craft! 
 
 >Is fighting eldritch monsters part of our classes?
 
-#Starting Off
+# Starting Off
 Coming out of the portal, it seemed like I was lost in wilderness with trees and flowers spreading out of sight.
 >I could swear that goat is staring at me...
 
@@ -35,7 +35,7 @@ I was told to open my own mining dimension to gather a lot efficiently. And effi
 I started making a wheat farm to make some coops and begin the chicken business. I also got eaten by a shark at some point, foolish as I was. Though it was a minor setback and things were flourishing.
 >Home sweet home.
 
-#Dimensions and Energy Conversion
+# Dimensions and Energy Conversion
 Then I obtained my transmutation table, and things became serious. It was time to produce EMC and get preparations ready for what was to come. But again, I made a grave mistake; I entered the Nether through a cake with no means of going back.
 >After a week of flying around, I finally gathered enough obsidian to leave. Never again...
 
@@ -51,7 +51,7 @@ After that I was sent to a candy dimension to gather samples, though I have a sn
 I had to figure out a way to make it even faster, so I resorted to surnatural means and built pedestals to put time clocks on and speed the processes. It ended up more efficient than I thought, and finally obtained the long awaited Terrasteel chickens. It was time to go to the next step.
 >A world of endless possibilities now in my grasp.
 
-#Beyond Mortal Means
+# Beyond Mortal Means
 My newfound knowledge made me access undiscovered heights and I made my EMC production go through the roof using bonsai flowers. It was time to delve into flower matters as I was told a creature named the Guardian of Gaia could be the threat.
 >Though in the end it proved itself no worthy foe.
 
@@ -67,14 +67,14 @@ As I kept finding nothing, I had to go further and further into dangerous places
 I went through the many Abyssal dimensions and managed to defeat an avatar of my dark arts teacher. But it was still not the threat! What could be the cause of this warp? My (other) teachers had to reunite and discuss the next step over a copious meal... that I had to furnish. Not that I was inconvenienced since I could create all matter from nothing, almost...
 >A powerful mage able to bring down behemoths, reduced to jumping on grapes.
 
-#The Final Threats
+# The Final Threats
 After this moment of intense talking, they had one last lead; I was the one who had caused this warp during my classes, where I accidently gave some ender feed to a chicken. Creating an abomination that I had to put down, so I went into my mining dimension for safety and summoned it. Despite the sword of the cosmos being inefficient, I had no shortage of means and made quick work of it.
 >Fixing the mistakes of my past.
 
 But then, the true culprit appeared; it was my astrology teacher who had purposely swapped the food to make me fail my classes! Meanwhile my dark arts teacher had schemed to obtain the powers of the ender chicken. To no avail as I made as quick work of it as the previous one... the day was finally saved after the teacher fled into another dimension as a frog since it couldn't get squashed.
 >Looking scarier, but nothing can pass through my barrier!
 
-#Well-Deserved Promotion
+# Well-Deserved Promotion
 While in the end, it did not prove to be too hard of a task, it was still a fun little adventure. Once again time magic proves to be the strongest weapon for a mage! I will now delve deeper into more complex studies...
 
 And with this, I write my last words in this journal with hopes that whoever reads it can gain some insight about it! It is time for me to close this chapter of my story and open a new one - orian34
