@@ -102,7 +102,7 @@ Little Monkey sat down, lost in thoughts, unable to find peace.
 
 "What troubles me so?" asked Little Monkey.
 
-"I've realized there are many tricky situations that can happen in life, where no easy solution is possible. Thinking about each side provides valid arguments, yet I'm unable to formulate a conclusion. Without good answers, is there's simply a lack of answers, only compromises?"
+"I've realized there are many tricky situations that can happen in life, where no easy solution is possible. Thinking about each side provides valid arguments, yet I'm unable to formulate a conclusion. Without good answers, is there simply a lack of answers, only compromises?"
 
 Little Monkey thought for a moment, then answered: "Why am I unable to find answers to my questions?"
 
