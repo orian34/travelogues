@@ -4,15 +4,13 @@ layout: post
 description: Collection of stories from an unknown author.
 categories: [story]
 title: Little Monkey
-search_exclude: true
-hide: true
 ---
 # Freedom
 Little Monkey was sitting when a distressed Lion approached, pacing back and forth without rest.
 
 "What troubles you so?" asked Little Monkey.
 
-"My kingdom is menaced by other packs, internal conflict is brewing, and I need to mediate with nomads in the territory. I don't have a day for myself, they need me to solve their problems, and I can't risk losing my place, but this is excruciating!" said Lion.
+"My kingdom is menaced by other prides, internal conflict is brewing, and I need to mediate with nomads in the territory. I don't have a day for myself, they need me to solve their problems, and I can't risk losing my place, but this is excruciating!" said Lion.
 
 Little Monkey thought for a moment, then answered: "Why do you need to take on that responsibility?"
 
@@ -22,7 +20,7 @@ Little Monkey was on his way when a ravenous Hyena jumped out of hiding, stoppin
 
 "What troubles you so?" asked Little Monkey.
 
-"My family is famished, and we have no other choice but to steal opportunities or feed on remains. The world hates us for it, and we repay it in kind; nobody else but us to help ourselves. There is no way any of us could survive alone anymore, it's an open war!" said Hyena.
+"My family is famished, and we have no other choice but to steal opportunities or feed on remains. The world hates us for it, and we repay it in kind; nobody else but us to help ourselves. There is no way any of us could survive alone any more, it's an open war!" said Hyena.
 
 Little Monkey thought for a moment, then answered: "Is this impossible to reconcile?"
 
@@ -32,7 +30,7 @@ Little Monkey was in the woods when a grunting Bear passed by, looking displease
 
 "What troubles you so?" asked Little Monkey.
 
-"My home is being invaded by distractions, I can't have a moment of peace and quiet. Others are a source of problems, I got wounded because of it. This will slow me down on all the preparations before winter, I wish no one would bother me!" said Bear.
+"My home is being invaded by distractions, I can't have a moment of peace and quiet. Others are a source of problems, I got wounded because of those. This will slow me down on all the preparations before winter, I wish no one would bother me!" said Bear.
 
 Little Monkey thought for a moment, then answered: "Could you not ask to help for it?"
 
@@ -52,9 +50,9 @@ Little Monkey watched as a mocking Crow landed next to him, laughing alone from 
 
 "What troubles you so?" asked Little Monkey.
 
-"You wouldn't understand, like all the others that ostracized me. They don't like the way I function so they excluded me, unable to truly accept me for who I am. They don't know what they're missing by being too hard-headed to accept a different view on things!" said Crow.
+"You wouldn't understand, like all the others that ostracized me. They don't like the way I do things so they excluded me, unable to truly accept me for who I am. They don't know what they're missing by being too hard-headed to accept a different point of view!" said Crow.
 
-Little Monkey thought for a moment, then answered: "Does it not apply for you?"
+Little Monkey thought for a moment, then answered: "Does it not apply to you?"
 
 Crow did not answer.
 # Courage
@@ -72,7 +70,7 @@ Little Monkey was called upon by a fidgeting Hermit Crab, surrounded by a collec
 
 "What troubles you so?" asked Little Monkey.
 
-"I can't decide on which shell to wear, I want to change it because it's already worn-out. I hate this body of mine, I have to find something better to show instead. I'm too frail so I have to get a suitable protection, but it has to catch the eye too!" said Hermit Crab.
+"I can't decide on which shell to wear, I want to change it because it's already worn out. I hate this body of mine, I have to find something better to show instead. I'm too frail so I have to get a suitable protection, but it has to catch the eye too!" said Hermit Crab.
 
 Little Monkey thought for a moment, then answered: "Are you really in need of it?"
 
