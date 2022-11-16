@@ -70,16 +70,18 @@ Fire tick being on made a really epic moment where I had to conquer an apartment
 Combine all the previous chaos and amp it up with many tnt stashes around creeper and blaze spawners. Don't expect to beat the area without at least one or two mass explosion, it's the hardest the map went, yet it's also quite easy because you have the strongest gear and have no more future challenges to save up resources on.
 It's also a very joke area at times, where it feels like Cake stopped holding back for the finale. It was a lot of fun but damn was I broken, near immortal. Somehow ended up creating an even more comical situation when I dug the center of the boss arena and the boss fell into the void as it spawned.
 # Conclusion
-![]({{ site.baseurl }}/images/ctm/loem/win.png "Hiding the wall of shame with the shell.")
 The map was lots of fun, exploration is rewarded handsomely with many many secrets, along with shattered levels that force you to use blocks to travel safely.
 Even with standard or almost vanilla terrain at times, the amount of secrets and tricky spawner placements make it exciting to explore, and each area is fairly short so problems don't have time to become annoying.
 There were tons of loot and lots of mob spam, the design clearly prioritized chaotic fun over tight balance, and I feel like it's showing as Cake's style at this point.
+
 In another map, I'd have complained about the low spawn delays, the spawner spam and abuse of blazes almost everywhere... but not here, because of the overabundant loot and amazing explosive arrows. It's a hard, unrelenting map, but it provides everything for the player to break the dam; it's up to you to win with the tools given. It introduces some unique ideas and tools that help diversifying approaches.
 On the other hand, I'm quite disappointed by the persistent mobs which barely were relevant despite the huge potential. Also wished a bit more recipes to find maybe?
 
 If I was told previously that this year there would be an insanely fun and hard full-length map that would have enough innovative designs to give me a ton of inspiration, I would have answered: Oh, Untold Stories 9 releases this year? And yet, it is about this map, whose expectations on were that it would be a very unfun hardcore map. This shows that expectations aren't useful, as things likely will never be as you expect, and it puts a burden on what's to come to be conformed to those expectations.
 
 So yes, don't trust the very hard rating, it's a very good map. But also don't trust me, and see for yourself by playing it.
+
+![]({{ site.baseurl }}/images/ctm/loem/win.png "Hiding the wall of shame with the shell.")
 
 <script src="https://utteranc.es/client.js"
         repo="orian34/travelogues"
