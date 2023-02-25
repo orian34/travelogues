@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the modpack.
 categories: [walkthrough, modpack, minecraft]
 title: Walking Through StoneBlock 3
-image: thb.png
+image: thumbnail.png
 date: "2023-02-25"
 aliases:
     - /stoneblock3/

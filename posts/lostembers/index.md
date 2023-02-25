@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the map.
 categories: [review, ctm, minecraft]
 title: Review of Lost Embers
-image: thb.png
+image: thumbnail.png
 date: "2022-11-16"
 aliases:
     - /lostembers/

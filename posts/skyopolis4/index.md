@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the modpack.
 categories: [walkthrough, modpack, minecraft]
 title: Walking Through Skyopolis 4
-image: thb.png
+image: thumbnail.png
 date: "2022-04-16"
 aliases:
     - /skyopolis4/

@@ -7,6 +7,7 @@ website:
   image: /posts/slogo.png
   favicon: /posts/favicon.ico
   site-url: https://orian34.github.io/travelogues/
+  open-graph: true
   navbar:
     right:
       - about.qmd

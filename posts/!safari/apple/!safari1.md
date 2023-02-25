@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the modpack.
 categories: [walkthrough, modpack, minecraft]
 title: Walking Through
-image: images/safari/apple/thb.png
+image: thumbnail.png
 search: false
 draft: true
 ---

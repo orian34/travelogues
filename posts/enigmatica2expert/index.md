@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the modpack.
 categories: [walkthrough, modpack, minecraft]
 title: Walking Through Enigmatica 2 Expert
-image: thb.png
+image: thumbnail.png
 date: "2022-03-26"
 aliases:
     - /enigmatica2expert/

@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the modpack.
 categories: [walkthrough, modpack, minecraft]
 title: Walking Through Amnesia - Flashback Edition
-image: thb.png
+image: thumbnail.png
 date: "2022-10-04"
 aliases:
     - /amnesia/

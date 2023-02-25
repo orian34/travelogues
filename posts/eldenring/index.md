@@ -4,7 +4,7 @@ layout: post
 description: Documented experience and shared feelings through the game.
 categories: [walkthrough, game]
 title: Walking Through Elden Ring
-image: thb.png
+image: thumbnail.png
 date: "2022-08-20"
 aliases:
     - /eldenring/
