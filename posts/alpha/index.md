@@ -4,6 +4,8 @@ description: All things have a beginning.
 categories: [talk]
 title: The Original Post
 date: "2022-02-15"
+aliases:
+    - /alpha/
 ---
 # The First Step
 After a long while of trying to figure out what to do, I've finally bit down the apple and here we are.

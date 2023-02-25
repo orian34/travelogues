@@ -5,6 +5,8 @@ description: Collection of stories from an unknown author.
 categories: [story]
 title: Little Monkey
 date: "2022-10-17"
+aliases:
+    - /littlemonkey/
 ---
 # Freedom
 

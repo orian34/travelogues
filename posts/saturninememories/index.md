@@ -6,6 +6,9 @@ categories: [review, ctm, minecraft]
 title: Review of Saturnine Memories
 image: sat.png
 date: "2022-02-17"
+aliases:
+    - /saturnine/
+    - /saturninememories/
 ---
 >Author: ZeyD_  
 Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=381)

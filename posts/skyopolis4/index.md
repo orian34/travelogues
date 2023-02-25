@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through Skyopolis 4
 image: thb.png
 date: "2022-04-16"
+aliases:
+    - /skyopolis4/
 ---
 >Author: benbenlaw  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/skyopolis-4)

@@ -6,6 +6,8 @@ categories: [review, ctm, minecraft]
 title: Review of Mapwreck 4 - Twisted Regions
 image: thb.png
 date: "2022-05-31"
+aliases:
+    - /mapwreck4/
 ---
 >Author: CTMC  
 Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=383)

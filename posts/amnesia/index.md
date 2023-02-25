@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through Amnesia - Flashback Edition
 image: thb.png
 date: "2022-10-04"
+aliases:
+    - /amnesia/
 ---
 >Author: Kehaan  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/amnesia)

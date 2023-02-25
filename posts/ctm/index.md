@@ -4,6 +4,8 @@ description: A brief explanation of the genre.
 categories: [talk, ctm, minecraft]
 title: What is a CTM?
 date: "2022-02-16"
+aliases:
+    - /ctm/
 ---
 CTM stands for Complete The Monument, and originated from quite a long time ago.
 

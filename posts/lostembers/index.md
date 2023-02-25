@@ -6,6 +6,8 @@ categories: [review, ctm, minecraft]
 title: Review of Lost Embers
 image: thb.png
 date: "2022-11-16"
+aliases:
+    - /lostembers/
 ---
 >Author: Cake  
 Origin: [Map Link](https://www.mediafire.com/file/cp9gboasxmhshn6/Lost_Embers.zip/file)

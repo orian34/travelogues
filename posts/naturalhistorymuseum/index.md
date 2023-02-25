@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through Natural History Museum
 image: thb.png
 date: "2022-10-20"
+aliases:
+    - /naturalhistorymuseum/
 ---
 >Author: fungidelight  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/natural-history-museum)  

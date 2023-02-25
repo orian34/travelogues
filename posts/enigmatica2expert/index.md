@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through Enigmatica 2 Expert
 image: thb.png
 date: "2022-03-26"
+aliases:
+    - /enigmatica2expert/
 ---
 >Author: NillerMedDild  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/enigmatica2expert)

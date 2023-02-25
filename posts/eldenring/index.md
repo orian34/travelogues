@@ -6,6 +6,8 @@ categories: [walkthrough, game]
 title: Walking Through Elden Ring
 image: thb.png
 date: "2022-08-20"
+aliases:
+    - /eldenring/
 ---
 >Author: FromSoftware  
 Origin: [Steam Link](https://store.steampowered.com/app/1245620/ELDEN_RING/)

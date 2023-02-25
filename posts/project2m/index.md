@@ -6,6 +6,8 @@ categories: [review, ctm, minecraft]
 title: Review of Project 2M
 image: thb.png
 date: "2022-04-08"
+aliases:
+    - /project2m/
 ---
 >Author: Ty and Kunii  
 Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=376)

@@ -6,6 +6,8 @@ categories: [review, ctm, minecraft]
 title: Review of Paradigm
 image: thb.png
 date: "2022-06-05"
+aliases:
+    - /paradigm/
 ---
 >Author: Binsi  
 Origin: [Map Link](https://www.mediafire.com/file/hvzxwoog0yxjzvp/Paradigm+-+CTM+By+Binsi.zip/file)

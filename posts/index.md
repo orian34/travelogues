@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through
 image: thb.png
 date: "2029-01-11"
+aliases:
+    - /sample/
 search: false
 draft: true
 ---

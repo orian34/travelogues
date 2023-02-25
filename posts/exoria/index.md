@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through Exoria - Flashback Edition
 image: thb.png
 date: "2022-10-06"
+aliases:
+    - /exoria/
 ---
 >Author: davqvist  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/exoria)

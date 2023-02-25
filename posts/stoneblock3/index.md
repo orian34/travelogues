@@ -6,6 +6,8 @@ categories: [walkthrough, modpack, minecraft]
 title: Walking Through StoneBlock 3
 image: thb.png
 date: "2023-02-25"
+aliases:
+    - /stoneblock3/
 ---
 >Author: FTB  
 Origin: [Modpack Link](https://www.feed-the-beast.com/modpacks/100-ftb-stoneblock-3)  
