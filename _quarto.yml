@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Travelogues"
+  description: "This is a blog containing various records of games, maps, and stories."
+  image: /slogo.png
+  favicon: /favicon.ico
+  site-url: https://orian34.github.io/travelogues/
+  navbar:
+    right:
+      - about.qmd
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
