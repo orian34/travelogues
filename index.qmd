@@ -1,5 +1,5 @@
 ---
-image: /slogo.png
+image: /posts/slogo.png
 listing:
   contents: posts
   sort: "date desc"

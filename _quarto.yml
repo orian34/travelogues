@@ -4,8 +4,8 @@ project:
 website:
   title: "Travelogues"
   description: "This is a blog containing various records of games, maps, and stories."
-  image: /slogo.png
-  favicon: /favicon.ico
+  image: /posts/slogo.png
+  favicon: /posts/favicon.ico
   site-url: https://orian34.github.io/travelogues/
   navbar:
     right:
