@@ -15,3 +15,5 @@ format:
     theme:
       dark: darkly
       light: flatly
+execute:
+  freeze: auto
