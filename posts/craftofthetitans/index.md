@@ -3,9 +3,9 @@ toc: true
 layout: post
 description: Documented experience and shared feelings through the modpack.
 categories: [walkthrough, modpack, minecraft]
-title: Walking Through
+title: Walking Through Craft of the Titans
 image: thumbnail.png
-date: "2023-04-05"
+date: "2023-04-06"
 aliases:
     - /craftofthetitans/
 ---
@@ -36,7 +36,7 @@ Problem is, I use a flattener tool that nukes my current base... Back to ground 
 
 Also adding a colossal chest to solve storage for a while, I can focus on basic progression quests and blood magic slightly. I encounter a bottleneck in rare resources meaning I have to start mining but also branching off in new techs. A lucky expedition yields just enough lapis to make an armor workbench allowing me to make speed 2 boots, a good boost!
 
-![The seeds begin expanding more as I obtain them.](a4)
+![The base begins expanding more as I obtain power.](a4)
 
 ### Sanguinomancy
 
