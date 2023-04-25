@@ -8,3 +8,72 @@ about:
 
 >This is a blog containing all the records of my adventures and documented discoveries.
 Hopefully this provides interesting material for the interested. - orian34
+
+ctm maps, terraria mods
+
+# Other projects I worked on
+
+### Games
+
+>Ring of Pain. As game designer, tester, and community manager. Also wrote several steam guides.
+[A gritty roguelike, making your way through rings of cards against deadly foes and strange creatures.](https://store.steampowered.com/app/998740/Ring_of_Pain/)
+
+### Writing
+
+>Valhalla MC. As blog writer.
+[A community with many modded Minecraft servers hosting modpacks for people to play.](https://valhallamc.io/)
+
+### Mods
+
+>07th-Mod. As script editing, animations, and PS3 matching.
+[Full conversion fan patches for the Higurashi - When They Cry visual novels. Adds console graphics, voices, arcs, and much more.](https://07th-mod.com/wiki/)
+
+>Hero in the Dark. As wiki maintainer, and testing.
+[A large content mod for Don't Starve. Inspired from DnD and fantasy, adds many new characters, dungeons, enemies, gear, resources, etc...](https://steamcommunity.com/sharedfiles/filedetails/?id=413821873)
+
+>Aposophia. As creator.
+[A small mod for The Binding of Isaac: Rebirth. Adding varied challenges to tackle on.](https://steamcommunity.com/sharedfiles/filedetails/?id=1263773617)
+
+>Shapeshifter. As creator.
+[A special boss shapes mod for Terraria. Adds a collection of boss shapes to wield and gain varied abilities.](https://forums.terraria.org/index.php?threads/the-shapeshifter.55006/)
+
+>Survivaria. As co-creator, design, and balance.
+[A survival mod for Terraria. Adds a large variety of foods and plants, along survival mechanics like hunger and thirst.](https://forums.terraria.org/index.php?threads/survivaria-a-survival-mode-mod.81756/)
+
+>Expeditions Addon: Interactions. As creator.
+[An addon to the Expeditions Mod for Terraria. Adds extra quests throughout progression to spice up the adventure and bring some life to the NPC.](https://forums.terraria.org/index.php?threads/expeditions-mod-modular-quest-system.52517/page-15#post-1558803)
+
+>Portable Storage 2. As designer, balance, testing.
+[A storage mod for Terraria. Provides a panel of portable storages to improve inventory management in a fun way.](https://forums.terraria.org/index.php?threads/portable-storage-2.81479/)
+
+### Minecraft
+
+>Searing Sands. As project lead.
+[An event CTM map for Minecraft. Made around a unique temperature mechanic, it has interesting items and datapacks.](https://ctmrepository.com/index.php?action=viewMap&id=403)
+
+>Break Build Forever. As tester, puzzle maker.
+[A puzzle map for Minecraft. Lots of mind-bending and fun puzzles to solve.](https://www.dropbox.com/s/fd6gxgr3d8t3uit/Break%20Build%20Forever.zip?dl=1)
+
+>Facsimilé. As creator.
+[A CTM map for Minecraft. Experimental with various design proof of concepts.](https://ctmrepository.com/index.php?action=viewMap&id=386)
+
+>Moonlight. As participant.
+[An event CTM map for Minecraft. Made an area in a month with a great team. The beginning of the french collaboration.](https://ctmrepository.com/index.php?action=viewMap&id=375)
+
+>Mapwreck 3 - Starlit Skies. As participant.
+[An event CTM map for Minecraft. Made an area in a week, the great boom of datapacks. Released to mixed reviews, but still holds a fond place in my memories.](https://ctmrepository.com/download.php?id=351)
+
+>Anima Mundus II - Scoured Sea. As co-creator.
+[A CTM map for Minecraft. The follow-up to Trial By Fire, with improved knowledge and work, also using datapacks.](https://ctmrepository.com/index.php?action=viewMap&id=350)
+
+>Quickfire 20: To The Void. As participant.
+[An event CTM map for Minecraft. Worked on 2 areas along other great people.](https://ctmrepository.com/index.php?action=viewMap&id=349)
+
+>Trial By Fire. As co-creator.
+[A CTM map for Minecraft. Very first CTM, made with Cango, our beginning steps in mapping.](https://ctmrepository.com/index.php?action=viewMap&id=348)
+
+>Transmocrafter. As creator.
+[A datapack for Minecraft maps. Overhauls the smithing table to allow upgrading and transfer of data for your gear.](https://www.curseforge.com/minecraft/customization/transmocrafter)
+
+>Death Toll. As creator.
+[A death datapack for Minecraft maps. Adds a different way to handle inventory on death, having the convenience of keep inventory while keeping some risk involved.](https://github.com/orian34/deathToll)
