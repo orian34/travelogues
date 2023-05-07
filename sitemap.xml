@@ -1,87 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://orian34.github.io/travelogues/posts/paradigm/index.html</loc>
-    <lastmod>2023-04-25T00:26:53.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/stoneblock3/index.html</loc>
-    <lastmod>2023-04-25T00:26:56.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/skyopolis4/index.html</loc>
-    <lastmod>2023-04-25T00:26:56.995Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/afterfall/index.html</loc>
-    <lastmod>2023-04-25T00:26:57.447Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/mapwreck4/index.html</loc>
-    <lastmod>2023-04-25T00:26:58.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/alpha/index.html</loc>
-    <lastmod>2023-04-25T00:26:58.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/lostembers/index.html</loc>
-    <lastmod>2023-04-25T00:26:59.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/ajobforthemage/index.html</loc>
-    <lastmod>2023-04-25T00:26:59.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/exoria/index.html</loc>
-    <lastmod>2023-04-25T00:27:00.176Z</lastmod>
+    <loc>https://orian34.github.io/travelogues/assets/markdown-post.html</loc>
+    <lastmod>2023-05-07T18:52:11.773Z</lastmod>
   </url>
   <url>
     <loc>https://orian34.github.io/travelogues/posts/craftofthetitans/index.html</loc>
-    <lastmod>2023-04-25T00:27:01.240Z</lastmod>
+    <lastmod>2023-05-07T18:52:14.285Z</lastmod>
   </url>
   <url>
-    <loc>https://orian34.github.io/travelogues/posts/eldenring/index.html</loc>
-    <lastmod>2023-04-25T00:27:02.484Z</lastmod>
+    <loc>https://orian34.github.io/travelogues/posts/alpha/index.html</loc>
+    <lastmod>2023-05-07T18:52:14.609Z</lastmod>
   </url>
   <url>
-    <loc>https://orian34.github.io/travelogues/posts/ctm/index.html</loc>
-    <lastmod>2023-04-25T00:27:02.876Z</lastmod>
+    <loc>https://orian34.github.io/travelogues/posts/stoneblock3/index.html</loc>
+    <lastmod>2023-05-07T18:52:15.662Z</lastmod>
   </url>
   <url>
-    <loc>https://orian34.github.io/travelogues/posts/enigmatica2expert/index.html</loc>
-    <lastmod>2023-04-25T00:27:03.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/saturninememories/index.html</loc>
-    <lastmod>2023-04-25T00:27:04.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/naturalhistorymuseum/index.html</loc>
-    <lastmod>2023-04-25T00:27:04.532Z</lastmod>
-  </url>
-  <url>
-    <loc>https://orian34.github.io/travelogues/posts/project2m/index.html</loc>
-    <lastmod>2023-04-25T00:27:05.064Z</lastmod>
+    <loc>https://orian34.github.io/travelogues/posts/lostembers/index.html</loc>
+    <lastmod>2023-05-07T18:52:16.294Z</lastmod>
   </url>
   <url>
     <loc>https://orian34.github.io/travelogues/posts/littlemonkey/index.html</loc>
-    <lastmod>2023-04-25T00:27:05.540Z</lastmod>
+    <lastmod>2023-05-07T18:52:16.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/exoria/index.html</loc>
+    <lastmod>2023-05-07T18:52:17.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/paradigm/index.html</loc>
+    <lastmod>2023-05-07T18:52:17.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/skyopolis4/index.html</loc>
+    <lastmod>2023-05-07T18:52:18.954Z</lastmod>
   </url>
   <url>
     <loc>https://orian34.github.io/travelogues/posts/amnesia/index.html</loc>
-    <lastmod>2023-04-25T00:27:06.040Z</lastmod>
+    <lastmod>2023-05-07T18:52:19.510Z</lastmod>
   </url>
   <url>
-    <loc>https://orian34.github.io/travelogues/index.html</loc>
-    <lastmod>2023-04-25T00:27:07.196Z</lastmod>
+    <loc>https://orian34.github.io/travelogues/posts/saturninememories/index.html</loc>
+    <lastmod>2023-05-07T18:52:20.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/enigmatica2expert/index.html</loc>
+    <lastmod>2023-05-07T18:52:20.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/eldenring/index.html</loc>
+    <lastmod>2023-05-07T18:52:22.702Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/project2m/index.html</loc>
+    <lastmod>2023-05-07T18:52:23.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/naturalhistorymuseum/index.html</loc>
+    <lastmod>2023-05-07T18:52:23.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/ajobforthemage/index.html</loc>
+    <lastmod>2023-05-07T18:52:24.410Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/rad/index.html</loc>
+    <lastmod>2023-05-07T18:52:25.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/mapwreck4/index.html</loc>
+    <lastmod>2023-05-07T18:52:26.090Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/ctm/index.html</loc>
+    <lastmod>2023-05-07T18:52:26.434Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orian34.github.io/travelogues/posts/afterfall/index.html</loc>
+    <lastmod>2023-05-07T18:52:26.934Z</lastmod>
   </url>
   <url>
     <loc>https://orian34.github.io/travelogues/about.html</loc>
-    <lastmod>2023-04-25T00:27:07.648Z</lastmod>
+    <lastmod>2023-05-07T18:52:27.346Z</lastmod>
   </url>
   <url>
-    <loc>https://orian34.github.io/travelogues/assets/markdown-post.html</loc>
-    <lastmod>2023-04-25T00:27:08.328Z</lastmod>
+    <loc>https://orian34.github.io/travelogues/index.html</loc>
+    <lastmod>2023-05-07T18:52:28.986Z</lastmod>
   </url>
 </urlset>
