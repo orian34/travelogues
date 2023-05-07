@@ -9,8 +9,9 @@ date: "2022-06-05"
 aliases:
     - /paradigm/
 ---
->Author: Binsi  
-Origin: [Map Link](https://www.mediafire.com/file/hvzxwoog0yxjzvp/Paradigm+-+CTM+By+Binsi.zip/file)
+>Map Author: Binsi  
+Origin: [Map Link](https://www.mediafire.com/file/hvzxwoog0yxjzvp/Paradigm+-+CTM+By+Binsi.zip/file)  
+Versions: MC = 1.17.1
 
 # Presentation
 

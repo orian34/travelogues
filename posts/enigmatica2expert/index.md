@@ -9,7 +9,7 @@ date: "2022-03-26"
 aliases:
     - /enigmatica2expert/
 ---
->Author: NillerMedDild  
+>Modpack Author: NillerMedDild  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/enigmatica2expert)
 
 # Presentation

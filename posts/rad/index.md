@@ -9,7 +9,7 @@ date: "2023-05-07"
 aliases:
     - /rad/
 ---
->Author: dreams01  
+>Modpack Author: dreams01  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)  
 Versions: MC = 1.12.2 - Pack = 1.53
 

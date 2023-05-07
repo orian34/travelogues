@@ -9,7 +9,7 @@ date: "2023-04-06"
 aliases:
     - /craftofthetitans/
 ---
->Author: BoolymanMC  
+>Modpack Author: BoolymanMC  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/craft-of-the-titans)  
 Versions: MC = 1.10.2 - Pack = 1.30
 

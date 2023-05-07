@@ -11,7 +11,7 @@ aliases:
 search: false
 draft: true
 ---
->Author: TBD  
+>Modpack Author: TBD  
 Origin: [Modpack Link]()  
 Versions: MC =  - Pack =
 

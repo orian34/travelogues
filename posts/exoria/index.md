@@ -9,8 +9,9 @@ date: "2022-10-06"
 aliases:
     - /exoria/
 ---
->Author: davqvist  
-Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/exoria)
+>Modpack Author: davqvist  
+Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/exoria)  
+Versions: MC = 1.12.2 - Pack = 1.3.0c
 
 It's the beginning of a new adventure, and this time we're going to delve into the Exoria modpack. This pack begins with us being exiled in a barren place full of ash, but not all hope is lost.
 

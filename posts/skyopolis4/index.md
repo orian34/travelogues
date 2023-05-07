@@ -9,8 +9,9 @@ date: "2022-04-16"
 aliases:
     - /skyopolis4/
 ---
->Author: benbenlaw  
-Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/skyopolis-4)
+>Modpack Author: benbenlaw  
+Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/skyopolis-4)  
+Versions: MC = 1.16.5 - Pack = 13.0
 
 # Presentation
 

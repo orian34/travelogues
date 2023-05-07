@@ -9,8 +9,9 @@ date: "2022-10-04"
 aliases:
     - /amnesia/
 ---
->Author: Kehaan  
-Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/amnesia)
+>Modpack Author: Kehaan  
+Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/amnesia)  
+Versions: MC = 1.12.2 - Pack = 1.0.9
 
 It's the beginning of a new adventure, and this time we're going to delve into the Amnesia modpack! This pack is focused around recipes and loots being random, the player being struck by amnesia every 5 minutes.
 

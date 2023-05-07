@@ -9,8 +9,9 @@ date: "2022-04-23"
 aliases:
     - /afterfall/
 ---
->Author: Gizmo & Cango  
-Origin: [Map Link](https://ctm.community/map/385/afterfall)
+>Map Authors: Gizmo & Cango  
+Origin: [Map Link](https://ctm.community/map/385/afterfall)  
+Versions: MC = 1.17.1
 
 # Presentation
 

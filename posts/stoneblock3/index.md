@@ -9,7 +9,7 @@ date: "2023-02-25"
 aliases:
     - /stoneblock3/
 ---
->Author: FTB  
+>Modpack Author: FTB  
 Origin: [Modpack Link](https://www.feed-the-beast.com/modpacks/100-ftb-stoneblock-3)  
 Versions: MC = 1.18.2 - Pack = 1.6.1
 

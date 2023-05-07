@@ -9,7 +9,7 @@ date: "2022-11-16"
 aliases:
     - /lostembers/
 ---
->Author: Cake  
+>Map Author: Cake  
 Origin: [Map Link](https://www.mediafire.com/file/cp9gboasxmhshn6/Lost_Embers.zip/file)
 
 # Presentation

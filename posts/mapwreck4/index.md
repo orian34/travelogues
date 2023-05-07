@@ -9,8 +9,9 @@ date: "2022-05-31"
 aliases:
     - /mapwreck4/
 ---
->Author: CTMC  
-Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=383)
+>Map Author: CTMC  
+Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=383)  
+Versions: MC = 1.18.1
 
 # Presentation
 

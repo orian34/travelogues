@@ -9,8 +9,9 @@ date: "2022-04-08"
 aliases:
     - /project2m/
 ---
->Author: Ty and Kunii  
-Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=376)
+>Map Authors: Ty and Kunii  
+Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=376)  
+Versions: MC = 1.18.2
 
 # Presentation
 

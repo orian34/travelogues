@@ -9,8 +9,9 @@ date: "2022-10-05"
 aliases:
     - /ajobforthemage/
 ---
->Author: fungidelight  
-Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/a-job-for-the-mage)
+>Modpack Author: fungidelight  
+Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/a-job-for-the-mage)  
+Versions: MC = 1.12.2 - Pack = 2.2.0
 
 It's the beginning of a new adventure, and this time we're going to delve into the A Job for the Mage modpack. This pack is about fulfilling tasks for our magic school, following an interesting storyline.
 

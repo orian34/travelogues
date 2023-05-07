@@ -9,7 +9,7 @@ date: "2022-10-20"
 aliases:
     - /naturalhistorymuseum/
 ---
->Author: fungidelight  
+>Modpack Author: fungidelight  
 Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/natural-history-museum)  
 Versions: MC = 1.15.2 - Pack = 1.12.4
 
