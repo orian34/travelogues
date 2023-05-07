@@ -124,7 +124,7 @@ I enjoyed the drive to remove most automation and technology, leaving full range
 
 It seems like it would be fun for a server where people hang out, but for a quester it's not as interesting. Once my gear reaches the tier of immortal, it's a plateau.
 
-Clearly I wasn't what I expected, I learned a good lesson to be more attentive to what the pack is about before starting, so it was still an important experience to be had!
+Clearly it wasn't what I expected, I learned a good lesson to be more attentive to what the pack is about before starting, so it was still an important experience to be had!
 
 ![Another chapter ends in this grand adventure!](win)
 
