@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: A discussion on the significance and symbolism of 3.
 categories: [talk]
-title: 3
+title: "3"
 date: "2023-06-07"
 aliases:
     - /3/
