@@ -10,7 +10,8 @@ aliases:
     - /enigmatica2expert/
 ---
 >Modpack Author: NillerMedDild  
-Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/enigmatica2expert)
+Origin: [Modpack Link](https://www.curseforge.com/minecraft/modpacks/enigmatica2expert)  
+Versions: MC = 1.12.2
 
 # Presentation
 
@@ -45,7 +46,7 @@ Exploration yielded several more materials needed to unlock gates leading to dif
 
 A small step for tech, a leap for magic. I setup a very simple mana production, then a great sky temple for the stars, and even a blood altar! With my few power means, I can produce some rubber and begin semi-automatizing some resources using pipes. Business is booming, I even get to make a mystical agriculture gem.
 
-!["Dovahkiin, Dovahkiin, naal ok zin los vahriin!](b2)
+![Dovahkiin, Dovahkiin, naal ok zin los vahriin!](b2)
 
 My expedition yielded some precious materials, and for the first time ever I learned how to use rituals! I use them to boost my crop growth to great effect, and I'm sure this will end up a major tool later on... Another trip to the nether and my blood altar receives a lot of upgrades, efficiency primes!
 
