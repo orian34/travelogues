@@ -49,6 +49,15 @@ Hopefully this provides interesting material for the interested. - orian34
 
 ### Minecraft
 
+>Across The Time 2 - Time For Regrets. As modder.
+[An amazing map where I made a small spell mod to discover secrets.](https://www.curseforge.com/minecraft/worlds/across-the-time-2-time-for-regrets)
+
+>Mapwreck 6 - Sunset to Sentience. As participant.
+[An event CTM map for Minecraft. Made an area in a week, another great boom of datapacks. Once again with issues but this time I made a more qualitative work.](https://ctmrepository.com/index.php?action=viewMap&id=518)
+
+>Patchwreck. As participant.
+[A crazy map where I mostly did some items and mobs. Enjoy the Euclidean nightmare!](https://ctmrepository.com/index.php?action=viewMap&id=465)
+
 >Searing Sands. As project lead.
 [An event CTM map for Minecraft. Made around a unique temperature mechanic, it has interesting items and datapacks.](https://ctmrepository.com/index.php?action=viewMap&id=403)
 
@@ -62,7 +71,7 @@ Hopefully this provides interesting material for the interested. - orian34
 [An event CTM map for Minecraft. Made an area in a month with a great team. The beginning of the french collaboration.](https://ctmrepository.com/index.php?action=viewMap&id=375)
 
 >Mapwreck 3 - Starlit Skies. As participant.
-[An event CTM map for Minecraft. Made an area in a week, the great boom of datapacks. Released to mixed reviews, but still holds a fond place in my memories.](https://ctmrepository.com/download.php?id=351)
+[An event CTM map for Minecraft. Made an area in a week, the great boom of datapacks. Released to mixed reviews, but still holds a fond place in my memories.](https://ctmrepository.com/index.php?action=viewMap&id=351)
 
 >Anima Mundus II - Scoured Sea. As co-creator.
 [A CTM map for Minecraft. The follow-up to Trial By Fire, with improved knowledge and work, also using datapacks.](https://ctmrepository.com/index.php?action=viewMap&id=350)
