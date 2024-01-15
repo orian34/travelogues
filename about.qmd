@@ -33,7 +33,7 @@ Hopefully this provides interesting material for the interested. - orian34
 [A large content mod for Don't Starve. Inspired from DnD and fantasy, adds many new characters, dungeons, enemies, gear, resources, etc...](https://steamcommunity.com/sharedfiles/filedetails/?id=413821873)
 
 >Aposophia. As creator.
-[A small mod for The Binding of Isaac: Rebirth. Adding varied challenges to tackle on.](https://steamcommunity.com/sharedfiles/filedetails/?id=1263773617)
+[A small mod for The Binding of Isaac Rebirth. Adding varied challenges to tackle on.](https://steamcommunity.com/sharedfiles/filedetails/?id=1263773617)
 
 >Shapeshifter. As creator.
 [A special boss shapes mod for Terraria. Adds a collection of boss shapes to wield and gain varied abilities.](https://forums.terraria.org/index.php?threads/the-shapeshifter.55006/)
@@ -49,7 +49,9 @@ Hopefully this provides interesting material for the interested. - orian34
 
 ### Minecraft
 
->Across The Time 2 - Time For Regrets. As modder.
+>???
+
+>Across The Time 2 - Time For Regrets. As contributor.
 [An amazing map where I made a small spell mod to discover secrets.](https://www.curseforge.com/minecraft/worlds/across-the-time-2-time-for-regrets)
 
 >Mapwreck 6 - Sunset to Sentience. As participant.
