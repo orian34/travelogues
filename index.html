@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -50,7 +50,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -59,6 +65,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -97,9 +104,36 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Travelogues">
 <meta property="og:image" content="https://orian34.github.io/travelogues//posts/slogo.png">
-<meta property="og:site-name" content="Travelogues">
+<meta property="og:site_name" content="Travelogues">
 <meta property="og:image:height" content="354">
 <meta property="og:image:width" content="354">
 </head>
@@ -107,10 +141,10 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Travelogues</span>
     </a>
@@ -122,14 +156,14 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -139,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(24)</span></div><div class="category" data-category="ctm">ctm <span class="quarto-category-count">(10)</span></div><div class="category" data-category="game">game <span class="quarto-category-count">(2)</span></div><div class="category" data-category="minecraft">minecraft <span class="quarto-category-count">(19)</span></div><div class="category" data-category="modpack">modpack <span class="quarto-category-count">(9)</span></div><div class="category" data-category="review">review <span class="quarto-category-count">(9)</span></div><div class="category" data-category="story">story <span class="quarto-category-count">(1)</span></div><div class="category" data-category="talk">talk <span class="quarto-category-count">(5)</span></div><div class="category" data-category="walkthrough">walkthrough <span class="quarto-category-count">(10)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(25)</span></div><div class="category" data-category="ctm">ctm <span class="quarto-category-count">(11)</span></div><div class="category" data-category="game">game <span class="quarto-category-count">(2)</span></div><div class="category" data-category="minecraft">minecraft <span class="quarto-category-count">(20)</span></div><div class="category" data-category="modpack">modpack <span class="quarto-category-count">(9)</span></div><div class="category" data-category="review">review <span class="quarto-category-count">(10)</span></div><div class="category" data-category="story">story <span class="quarto-category-count">(1)</span></div><div class="category" data-category="talk">talk <span class="quarto-category-count">(5)</span></div><div class="category" data-category="walkthrough">walkthrough <span class="quarto-category-count">(10)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -149,21 +183,58 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="talk,ctm,minecraft,game,review" data-listing-date-sort="1705276800000" data-listing-file-modified-sort="1705353660369" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="quarto-post image-right" data-index="0" data-categories="review,ctm,minecraft" data-listing-date-sort="1707523200000" data-listing-file-modified-sort="1707600309976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1698">
 <div class="thumbnail">
-<p><a href="./posts/2023/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/mapwreck6/index.html" class="no-external"></a></p><a href="./posts/mapwreck6/index.html" class="no-external">
+<p><img src="./posts/mapwreck6/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/mapwreck6/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/2023/index.html">
 <h3 class="no-anchor listing-title">
-2023 In Brief
+<a href="./posts/mapwreck6/index.html" class="no-external">Review of Mapwreck 6 - Sunset to Sentience</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/mapwreck6/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
+review
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ctm'); return false;">
+ctm
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('minecraft'); return false;">
+minecraft
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/mapwreck6/index.html" class="no-external">In-depth feedback and overview of the map.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/mapwreck6/index.html" class="no-external">
+<div class="listing-date">
+Feb 10, 2024
 </div>
 </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="talk,ctm,minecraft,game,review" data-listing-date-sort="1705276800000" data-listing-file-modified-sort="1707600308132" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2690">
+<div class="thumbnail">
+<p><a href="./posts/2023/index.html" class="no-external"></a></p><a href="./posts/2023/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/2023/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2023/index.html" class="no-external">2023 In Brief</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/2023/index.html" class="no-external"></a>
+</div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
 talk
@@ -181,33 +252,31 @@ game
 review
 </div>
 </div>
-<a href="./posts/2023/index.html">
 <div class="listing-description">
-<p>A look back to all the games and content experienced through the year.</p>
+<a href="./posts/2023/index.html" class="no-external">A look back to all the games and content experienced through the year.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/2023/index.html">
+<a href="./posts/2023/index.html" class="no-external">
 <div class="listing-date">
 Jan 15, 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="review,ctm,minecraft" data-listing-date-sort="1699747200000" data-listing-file-modified-sort="1705353661077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="2" data-categories="review,ctm,minecraft" data-listing-date-sort="1699747200000" data-listing-file-modified-sort="1707600308840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1374">
 <div class="thumbnail">
-<p><a href="./posts/finalparadox/index.html"> <img src="./posts/finalparadox/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/finalparadox/index.html" class="no-external"></a></p><a href="./posts/finalparadox/index.html" class="no-external">
+<p><img src="./posts/finalparadox/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/finalparadox/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/finalparadox/index.html">
 <h3 class="no-anchor listing-title">
-Review of Final Paradox
+<a href="./posts/finalparadox/index.html" class="no-external">Review of Final Paradox</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/finalparadox/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -219,65 +288,61 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/finalparadox/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/finalparadox/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/finalparadox/index.html">
+<a href="./posts/finalparadox/index.html" class="no-external">
 <div class="listing-date">
 Nov 12, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="talk" data-listing-date-sort="1695859200000" data-listing-file-modified-sort="1705353662977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="3" data-categories="talk" data-listing-date-sort="1695859200000" data-listing-file-modified-sort="1707600310964" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1237">
 <div class="thumbnail">
-<p><a href="./posts/systems/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/systems/index.html" class="no-external"></a></p><a href="./posts/systems/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/systems/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/systems/index.html">
 <h3 class="no-anchor listing-title">
-Systems - The Mind and the World
+<a href="./posts/systems/index.html" class="no-external">Systems - The Mind and the World</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/systems/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
 talk
 </div>
 </div>
-<a href="./posts/systems/index.html">
 <div class="listing-description">
-<p>A discussion on the systems and randomness.</p>
+<a href="./posts/systems/index.html" class="no-external">A discussion on the systems and randomness.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/systems/index.html">
+<a href="./posts/systems/index.html" class="no-external">
 <div class="listing-date">
 Sep 28, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="review,ctm,minecraft" data-listing-date-sort="1691625600000" data-listing-file-modified-sort="1705353661957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="4" data-categories="review,ctm,minecraft" data-listing-date-sort="1691625600000" data-listing-file-modified-sort="1707600309716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1237">
 <div class="thumbnail">
-<p><a href="./posts/mapwreck5/index.html"> <img src="./posts/mapwreck5/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/mapwreck5/index.html" class="no-external"></a></p><a href="./posts/mapwreck5/index.html" class="no-external">
+<p><img src="./posts/mapwreck5/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/mapwreck5/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/mapwreck5/index.html">
 <h3 class="no-anchor listing-title">
-Review of Mapwreck 5 - Currents
+<a href="./posts/mapwreck5/index.html" class="no-external">Review of Mapwreck 5 - Currents</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/mapwreck5/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -289,65 +354,61 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/mapwreck5/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/mapwreck5/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/mapwreck5/index.html">
+<a href="./posts/mapwreck5/index.html" class="no-external">
 <div class="listing-date">
 Aug 10, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="talk" data-listing-date-sort="1686096000000" data-listing-file-modified-sort="1705353660369" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="5" data-categories="talk" data-listing-date-sort="1686096000000" data-listing-file-modified-sort="1707600308132" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="321">
 <div class="thumbnail">
-<p><a href="./posts/3/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/3/index.html" class="no-external"></a></p><a href="./posts/3/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/3/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/3/index.html">
 <h3 class="no-anchor listing-title">
-3
+<a href="./posts/3/index.html" class="no-external">3</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/3/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
 talk
 </div>
 </div>
-<a href="./posts/3/index.html">
 <div class="listing-description">
-<p>A discussion on the significance and symbolism of 3.</p>
+<a href="./posts/3/index.html" class="no-external">A discussion on the significance and symbolism of 3.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/3/index.html">
+<a href="./posts/3/index.html" class="no-external">
 <div class="listing-date">
 Jun 7, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1683417600000" data-listing-file-modified-sort="1705353662409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
+<div class="quarto-post image-right" data-index="6" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1683417600000" data-listing-file-modified-sort="1707600310396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2026">
 <div class="thumbnail">
-<p><a href="./posts/rad/index.html"> <img src="./posts/rad/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/rad/index.html" class="no-external"></a></p><a href="./posts/rad/index.html" class="no-external">
+<p><img src="./posts/rad/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/rad/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/rad/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Roguelike Adventures and Dungeons
+<a href="./posts/rad/index.html" class="no-external">Walking Through Roguelike Adventures and Dungeons</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/rad/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -359,33 +420,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/rad/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/rad/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/rad/index.html">
+<a href="./posts/rad/index.html" class="no-external">
 <div class="listing-date">
 May 7, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1680739200000" data-listing-file-modified-sort="1705353660517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="quarto-post image-right" data-index="7" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1680739200000" data-listing-file-modified-sort="1707600308280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2453">
 <div class="thumbnail">
-<p><a href="./posts/craftofthetitans/index.html"> <img src="./posts/craftofthetitans/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/craftofthetitans/index.html" class="no-external"></a></p><a href="./posts/craftofthetitans/index.html" class="no-external">
+<p><img src="./posts/craftofthetitans/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/craftofthetitans/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/craftofthetitans/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Craft of the Titans
+<a href="./posts/craftofthetitans/index.html" class="no-external">Walking Through Craft of the Titans</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/craftofthetitans/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -397,33 +456,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/craftofthetitans/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/craftofthetitans/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/craftofthetitans/index.html">
+<a href="./posts/craftofthetitans/index.html" class="no-external">
 <div class="listing-date">
 Apr 6, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1677283200000" data-listing-file-modified-sort="1705353662965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10">
+<div class="quarto-post image-right" data-index="8" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1677283200000" data-listing-file-modified-sort="1707600310952" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1866">
 <div class="thumbnail">
-<p><a href="./posts/stoneblock3/index.html"> <img src="./posts/stoneblock3/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/stoneblock3/index.html" class="no-external"></a></p><a href="./posts/stoneblock3/index.html" class="no-external">
+<p><img src="./posts/stoneblock3/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/stoneblock3/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/stoneblock3/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through StoneBlock 3
+<a href="./posts/stoneblock3/index.html" class="no-external">Walking Through StoneBlock 3</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/stoneblock3/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -435,33 +492,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/stoneblock3/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/stoneblock3/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/stoneblock3/index.html">
+<a href="./posts/stoneblock3/index.html" class="no-external">
 <div class="listing-date">
 Feb 25, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="review,ctm,minecraft" data-listing-date-sort="1668556800000" data-listing-file-modified-sort="1705353661245" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<div class="quarto-post image-right" data-index="9" data-categories="review,ctm,minecraft" data-listing-date-sort="1668556800000" data-listing-file-modified-sort="1707600309008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1506">
 <div class="thumbnail">
-<p><a href="./posts/lostembers/index.html"> <img src="./posts/lostembers/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/lostembers/index.html" class="no-external"></a></p><a href="./posts/lostembers/index.html" class="no-external">
+<p><img src="./posts/lostembers/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/lostembers/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/lostembers/index.html">
 <h3 class="no-anchor listing-title">
-Review of Lost Embers
+<a href="./posts/lostembers/index.html" class="no-external">Review of Lost Embers</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/lostembers/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -473,33 +528,31 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/lostembers/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the map.</p>
+<a href="./posts/lostembers/index.html" class="no-external">Documented experience and shared feelings through the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/lostembers/index.html">
+<a href="./posts/lostembers/index.html" class="no-external">
 <div class="listing-date">
 Nov 16, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1666224000000" data-listing-file-modified-sort="1705353662077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="10" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1666224000000" data-listing-file-modified-sort="1707600310068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1313">
 <div class="thumbnail">
-<p><a href="./posts/naturalhistorymuseum/index.html"> <img src="./posts/naturalhistorymuseum/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/naturalhistorymuseum/index.html" class="no-external"></a></p><a href="./posts/naturalhistorymuseum/index.html" class="no-external">
+<p><img src="./posts/naturalhistorymuseum/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/naturalhistorymuseum/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/naturalhistorymuseum/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Natural History Museum
+<a href="./posts/naturalhistorymuseum/index.html" class="no-external">Walking Through Natural History Museum</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/naturalhistorymuseum/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -511,65 +564,61 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/naturalhistorymuseum/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/naturalhistorymuseum/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/naturalhistorymuseum/index.html">
+<a href="./posts/naturalhistorymuseum/index.html" class="no-external">
 <div class="listing-date">
 Oct 20, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="story" data-listing-date-sort="1665964800000" data-listing-file-modified-sort="1705353661089" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="11" data-categories="story" data-listing-date-sort="1665964800000" data-listing-file-modified-sort="1707600308856" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="918">
 <div class="thumbnail">
-<p><a href="./posts/littlemonkey/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/littlemonkey/index.html" class="no-external"></a></p><a href="./posts/littlemonkey/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/littlemonkey/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/littlemonkey/index.html">
 <h3 class="no-anchor listing-title">
-Little Monkey
+<a href="./posts/littlemonkey/index.html" class="no-external">Little Monkey</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/littlemonkey/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('story'); return false;">
 story
 </div>
 </div>
-<a href="./posts/littlemonkey/index.html">
 <div class="listing-description">
-<p>Collection of stories from an unknown author.</p>
+<a href="./posts/littlemonkey/index.html" class="no-external">Collection of stories from an unknown author.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/littlemonkey/index.html">
+<a href="./posts/littlemonkey/index.html" class="no-external">
 <div class="listing-date">
 Oct 17, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1665014400000" data-listing-file-modified-sort="1705353660761" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10">
+<div class="quarto-post image-right" data-index="12" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1665014400000" data-listing-file-modified-sort="1707600308528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1861">
 <div class="thumbnail">
-<p><a href="./posts/exoria/index.html"> <img src="./posts/exoria/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/exoria/index.html" class="no-external"></a></p><a href="./posts/exoria/index.html" class="no-external">
+<p><img src="./posts/exoria/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/exoria/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/exoria/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Exoria - Flashback Edition
+<a href="./posts/exoria/index.html" class="no-external">Walking Through Exoria - Flashback Edition</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/exoria/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -581,33 +630,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/exoria/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/exoria/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/exoria/index.html">
+<a href="./posts/exoria/index.html" class="no-external">
 <div class="listing-date">
 Oct 6, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1664928000000" data-listing-file-modified-sort="1705353660425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="13" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1664928000000" data-listing-file-modified-sort="1707600308192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1378">
 <div class="thumbnail">
-<p><a href="./posts/ajobforthemage/index.html"> <img src="./posts/ajobforthemage/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/ajobforthemage/index.html" class="no-external"></a></p><a href="./posts/ajobforthemage/index.html" class="no-external">
+<p><img src="./posts/ajobforthemage/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/ajobforthemage/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/ajobforthemage/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through A Job for the Mage - Flashback Edition
+<a href="./posts/ajobforthemage/index.html" class="no-external">Walking Through A Job for the Mage - Flashback Edition</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/ajobforthemage/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -619,33 +666,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/ajobforthemage/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/ajobforthemage/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/ajobforthemage/index.html">
+<a href="./posts/ajobforthemage/index.html" class="no-external">
 <div class="listing-date">
 Oct 5, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1664841600000" data-listing-file-modified-sort="1705353660429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<div class="quarto-post image-right" data-index="14" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1664841600000" data-listing-file-modified-sort="1707600308192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1485">
 <div class="thumbnail">
-<p><a href="./posts/amnesia/index.html"> <img src="./posts/amnesia/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/amnesia/index.html" class="no-external"></a></p><a href="./posts/amnesia/index.html" class="no-external">
+<p><img src="./posts/amnesia/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/amnesia/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/amnesia/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Amnesia - Flashback Edition
+<a href="./posts/amnesia/index.html" class="no-external">Walking Through Amnesia - Flashback Edition</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/amnesia/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -657,33 +702,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/amnesia/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/amnesia/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/amnesia/index.html">
+<a href="./posts/amnesia/index.html" class="no-external">
 <div class="listing-date">
 Oct 4, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="walkthrough,game" data-listing-date-sort="1660953600000" data-listing-file-modified-sort="1705353660549" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="34">
+<div class="quarto-post image-right" data-index="15" data-categories="walkthrough,game" data-listing-date-sort="1660953600000" data-listing-file-modified-sort="1707600308316" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="34" data-listing-word-count-sort="6760">
 <div class="thumbnail">
-<p><a href="./posts/eldenring/index.html"> <img src="./posts/eldenring/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/eldenring/index.html" class="no-external"></a></p><a href="./posts/eldenring/index.html" class="no-external">
+<p><img src="./posts/eldenring/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/eldenring/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/eldenring/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Elden Ring
+<a href="./posts/eldenring/index.html" class="no-external">Walking Through Elden Ring</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/eldenring/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -692,33 +735,31 @@ walkthrough
 game
 </div>
 </div>
-<a href="./posts/eldenring/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the game.</p>
+<a href="./posts/eldenring/index.html" class="no-external">Documented experience and shared feelings through the game.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/eldenring/index.html">
+<a href="./posts/eldenring/index.html" class="no-external">
 <div class="listing-date">
 Aug 20, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="review,ctm,minecraft" data-listing-date-sort="1654387200000" data-listing-file-modified-sort="1705353662161" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="16" data-categories="review,ctm,minecraft" data-listing-date-sort="1654387200000" data-listing-file-modified-sort="1707600310148" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="967">
 <div class="thumbnail">
-<p><a href="./posts/paradigm/index.html"> <img src="./posts/paradigm/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/paradigm/index.html" class="no-external"></a></p><a href="./posts/paradigm/index.html" class="no-external">
+<p><img src="./posts/paradigm/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/paradigm/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/paradigm/index.html">
 <h3 class="no-anchor listing-title">
-Review of Paradigm
+<a href="./posts/paradigm/index.html" class="no-external">Review of Paradigm</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/paradigm/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -730,33 +771,31 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/paradigm/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/paradigm/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/paradigm/index.html">
+<a href="./posts/paradigm/index.html" class="no-external">
 <div class="listing-date">
 Jun 5, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="review,ctm,minecraft" data-listing-date-sort="1653955200000" data-listing-file-modified-sort="1705353661641" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<div class="quarto-post image-right" data-index="17" data-categories="review,ctm,minecraft" data-listing-date-sort="1653955200000" data-listing-file-modified-sort="1707600309404" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1428">
 <div class="thumbnail">
-<p><a href="./posts/mapwreck4/index.html"> <img src="./posts/mapwreck4/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/mapwreck4/index.html" class="no-external"></a></p><a href="./posts/mapwreck4/index.html" class="no-external">
+<p><img src="./posts/mapwreck4/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/mapwreck4/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/mapwreck4/index.html">
 <h3 class="no-anchor listing-title">
-Review of Mapwreck 4 - Twisted Regions
+<a href="./posts/mapwreck4/index.html" class="no-external">Review of Mapwreck 4 - Twisted Regions</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/mapwreck4/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -768,33 +807,31 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/mapwreck4/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/mapwreck4/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/mapwreck4/index.html">
+<a href="./posts/mapwreck4/index.html" class="no-external">
 <div class="listing-date">
 May 31, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="review,ctm,minecraft" data-listing-date-sort="1650672000000" data-listing-file-modified-sort="1705353660417" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-right" data-index="18" data-categories="review,ctm,minecraft" data-listing-date-sort="1650672000000" data-listing-file-modified-sort="1707600308184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1018">
 <div class="thumbnail">
-<p><a href="./posts/afterfall/index.html"> <img src="./posts/afterfall/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/afterfall/index.html" class="no-external"></a></p><a href="./posts/afterfall/index.html" class="no-external">
+<p><img src="./posts/afterfall/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/afterfall/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/afterfall/index.html">
 <h3 class="no-anchor listing-title">
-Review of Afterfall
+<a href="./posts/afterfall/index.html" class="no-external">Review of Afterfall</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/afterfall/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -806,33 +843,31 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/afterfall/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/afterfall/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/afterfall/index.html">
+<a href="./posts/afterfall/index.html" class="no-external">
 <div class="listing-date">
 Apr 23, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1650067200000" data-listing-file-modified-sort="1705353662709" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18">
+<div class="quarto-post image-right" data-index="19" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1650067200000" data-listing-file-modified-sort="1707600310696" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3536">
 <div class="thumbnail">
-<p><a href="./posts/skyopolis4/index.html"> <img src="./posts/skyopolis4/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/skyopolis4/index.html" class="no-external"></a></p><a href="./posts/skyopolis4/index.html" class="no-external">
+<p><img src="./posts/skyopolis4/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/skyopolis4/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/skyopolis4/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Skyopolis 4
+<a href="./posts/skyopolis4/index.html" class="no-external">Walking Through Skyopolis 4</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/skyopolis4/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -844,33 +879,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/skyopolis4/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/skyopolis4/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/skyopolis4/index.html">
+<a href="./posts/skyopolis4/index.html" class="no-external">
 <div class="listing-date">
 Apr 16, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="review,ctm,minecraft" data-listing-date-sort="1649376000000" data-listing-file-modified-sort="1705353662341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<div class="quarto-post image-right" data-index="20" data-categories="review,ctm,minecraft" data-listing-date-sort="1649376000000" data-listing-file-modified-sort="1707600310328" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1484">
 <div class="thumbnail">
-<p><a href="./posts/project2m/index.html"> <img src="./posts/project2m/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/project2m/index.html" class="no-external"></a></p><a href="./posts/project2m/index.html" class="no-external">
+<p><img src="./posts/project2m/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/project2m/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/project2m/index.html">
 <h3 class="no-anchor listing-title">
-Review of Project 2M
+<a href="./posts/project2m/index.html" class="no-external">Review of Project 2M</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/project2m/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -882,33 +915,31 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/project2m/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/project2m/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/project2m/index.html">
+<a href="./posts/project2m/index.html" class="no-external">
 <div class="listing-date">
 Apr 8, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1648252800000" data-listing-file-modified-sort="1705353660757" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12">
+<div class="quarto-post image-right" data-index="21" data-categories="walkthrough,modpack,minecraft" data-listing-date-sort="1648252800000" data-listing-file-modified-sort="1707600308520" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2341">
 <div class="thumbnail">
-<p><a href="./posts/enigmatica2expert/index.html"> <img src="./posts/enigmatica2expert/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/enigmatica2expert/index.html" class="no-external"></a></p><a href="./posts/enigmatica2expert/index.html" class="no-external">
+<p><img src="./posts/enigmatica2expert/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/enigmatica2expert/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/enigmatica2expert/index.html">
 <h3 class="no-anchor listing-title">
-Walking Through Enigmatica 2 Expert
+<a href="./posts/enigmatica2expert/index.html" class="no-external">Walking Through Enigmatica 2 Expert</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/enigmatica2expert/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('walkthrough'); return false;">
 walkthrough
@@ -920,33 +951,31 @@ modpack
 minecraft
 </div>
 </div>
-<a href="./posts/enigmatica2expert/index.html">
 <div class="listing-description">
-<p>Documented experience and shared feelings through the modpack.</p>
+<a href="./posts/enigmatica2expert/index.html" class="no-external">Documented experience and shared feelings through the modpack.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/enigmatica2expert/index.html">
+<a href="./posts/enigmatica2expert/index.html" class="no-external">
 <div class="listing-date">
 Mar 26, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="review,ctm,minecraft" data-listing-date-sort="1645056000000" data-listing-file-modified-sort="1705353662417" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="22" data-categories="review,ctm,minecraft" data-listing-date-sort="1645056000000" data-listing-file-modified-sort="1707600310404" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="929">
 <div class="thumbnail">
-<p><a href="./posts/saturninememories/index.html"> <img src="./posts/saturninememories/thumbnail.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/saturninememories/index.html" class="no-external"></a></p><a href="./posts/saturninememories/index.html" class="no-external">
+<p><img src="./posts/saturninememories/thumbnail.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/saturninememories/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/saturninememories/index.html">
 <h3 class="no-anchor listing-title">
-Review of Saturnine Memories
+<a href="./posts/saturninememories/index.html" class="no-external">Review of Saturnine Memories</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/saturninememories/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('review'); return false;">
 review
@@ -958,33 +987,31 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/saturninememories/index.html">
 <div class="listing-description">
-<p>In-depth feedback and overview of the map.</p>
+<a href="./posts/saturninememories/index.html" class="no-external">In-depth feedback and overview of the map.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/saturninememories/index.html">
+<a href="./posts/saturninememories/index.html" class="no-external">
 <div class="listing-date">
 Feb 17, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="talk,ctm,minecraft" data-listing-date-sort="1644969600000" data-listing-file-modified-sort="1705353660517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="23" data-categories="talk,ctm,minecraft" data-listing-date-sort="1644969600000" data-listing-file-modified-sort="1707600308284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="260">
 <div class="thumbnail">
-<p><a href="./posts/ctm/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/ctm/index.html" class="no-external"></a></p><a href="./posts/ctm/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/ctm/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/ctm/index.html">
 <h3 class="no-anchor listing-title">
-What is a CTM?
+<a href="./posts/ctm/index.html" class="no-external">What is a CTM?</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/ctm/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
 talk
@@ -996,46 +1023,42 @@ ctm
 minecraft
 </div>
 </div>
-<a href="./posts/ctm/index.html">
 <div class="listing-description">
-<p>A brief explanation of the genre.</p>
+<a href="./posts/ctm/index.html" class="no-external">A brief explanation of the genre.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/ctm/index.html">
+<a href="./posts/ctm/index.html" class="no-external">
 <div class="listing-date">
 Feb 16, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="talk" data-listing-date-sort="1644883200000" data-listing-file-modified-sort="1705353660429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="24" data-categories="talk" data-listing-date-sort="1644883200000" data-listing-file-modified-sort="1707600308192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
 <div class="thumbnail">
-<p><a href="./posts/alpha/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/alpha/index.html" class="no-external"></a></p><a href="./posts/alpha/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/alpha/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/alpha/index.html">
 <h3 class="no-anchor listing-title">
-The Original Post
+<a href="./posts/alpha/index.html" class="no-external">The Original Post</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/alpha/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('talk'); return false;">
 talk
 </div>
 </div>
-<a href="./posts/alpha/index.html">
 <div class="listing-description">
-<p>All things have a beginning.</p>
+<a href="./posts/alpha/index.html" class="no-external">All things have a beginning.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/alpha/index.html">
+<a href="./posts/alpha/index.html" class="no-external">
 <div class="listing-date">
 Feb 15, 2022
 </div>
@@ -1088,6 +1111,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -1156,13 +1206,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'alternate';
+  const darkModeDefault = true;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1241,10 +1293,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1254,8 +1305,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1268,6 +1328,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1311,6 +1490,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1336,6 +1516,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1396,6 +1602,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
