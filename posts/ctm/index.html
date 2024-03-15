@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -159,6 +159,7 @@ ul.task-list li input[type="checkbox"] {
 <p>But the most common ones stay in a fairly standard format with global rules. You’ll be playing in Survival Mode, with no cheating and variable rules. The rest is usually fair game, using what you’re given the way you want.</p>
 <p>The more modern maps have a tendency to become closer to action adventure with customized gear and enemies, capitalizing on datapacks for even more elaborate mechanics. There are as many styles as there are mapmakers and the diversity makes it truly a unique genre.</p>
 <p>The best place to find them is the <a href="https://ctmrepository.com/">CTM repository</a>. Maintained and containing most of all the CTM maps ever made.</p>
+<p>The document I maintain with <a href="https://docs.google.com/document/d/1w54gpdf6md3dm7i4Vx91l43WiwRaH6zSkN4rL3ZpbS0/edit?usp=sharing">all the maps</a> I reviewed.</p>
 <p>There is also a <a href="https://discord.gg/QNSsyCX7n5">discord server</a> for the CTM community to share and talk about CTM maps.</p>
 <script src="https://utteranc.es/client.js" repo="orian34/travelogues" issue-term="title" label="Comment" theme="github-dark" crossorigin="anonymous" async="">
 </script>
@@ -389,6 +390,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/orian34\.github\.io\/travelogues\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -423,7 +442,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
