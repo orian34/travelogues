@@ -19,6 +19,8 @@ There are as many styles as there are mapmakers and the diversity makes it truly
 
 The best place to find them is the [CTM repository](https://ctmrepository.com/). Maintained and containing most of all the CTM maps ever made.
 
+The document I maintain with [all the maps](https://docs.google.com/document/d/1w54gpdf6md3dm7i4Vx91l43WiwRaH6zSkN4rL3ZpbS0/edit?usp=sharing) I reviewed.
+
 There is also a [discord server](https://discord.gg/QNSsyCX7n5) for the CTM community to share and talk about CTM maps.
 
 <script src="https://utteranc.es/client.js"
