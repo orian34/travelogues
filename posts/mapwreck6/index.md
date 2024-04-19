@@ -79,7 +79,7 @@ The Great Escape was insanely good, so good it was used up till the end.
 
 ![Vive la france!](8)
 
-Ii was getting lost a fair bit, it's a very webbed area with many paths and entrances. The bonus dungeon was quite large, I remember the chaos during the mapping week, but it's funny to see it ended up being made in time.
+I was getting lost a fair bit, it's a very webbed area with many paths and entrances. The bonus dungeon was quite large, I remember the chaos during the mapping week, but it's funny to see it ended up being made in time.
 
 It was a fun area but a severe lack of baguettes. Le peuple a faim!
 
