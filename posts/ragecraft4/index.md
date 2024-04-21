@@ -96,7 +96,7 @@ The introduction of a new type of runes/resource was a bit more mixed, I felt li
 
 ![Grumble grumble why is it not named Empyrean.](11)
 
-A simpler area, with the biggest particularity being the many fast nat zombees creating a hounding sense while progressing, working especially well in the hanging vines maze. The second segment was a  more interesting, the visibility quite impaired changed the gameplay by needing to be more careful. It made me wish for spurs though, breaking the grass added a lot of tedium this could have solved.
+A simpler area, with the biggest particularity being the many fast nat zombees creating a hounding sense while progressing, working especially well in the hanging vines maze. The second segment was more interesting, the visibility quite impaired changed the gameplay by needing to be more careful. It made me wish for spurs though, breaking the grass added a lot of tedium this could have solved.
 The beekeeper elite was incredibly effective and thematic.
 
 ### Dreadfire Stronghold - Purple
