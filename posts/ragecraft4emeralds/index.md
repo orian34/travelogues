@@ -11,9 +11,10 @@ aliases:
 ---
 >Map Author: heliceo & Suso  
 Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=588)  
-Versions: MC = 1.20.1 - Map = 1.1
+Versions: MC = 1.20.1 - Map = 1.1.3
 
-Total: 115 Emeralds
+Total: 113 Emeralds
+
 Please only use this sheet in full awareness, exploring is fun and rewarding.
 
 # White - 6 Emeralds
@@ -346,7 +347,7 @@ At the top floor of the front spire.
 
 In a small room overlooking the blood pool before the objective room.
 
-# Blue - 6 Emeralds (84)
+# Blue - 5 Emeralds (83)
 
 ![X=739 Y=100 Z=-714](12a)
 
@@ -356,13 +357,9 @@ Atop the pillar with a giant orb in front of the Void Arena.
 
 On the overlook towards Purple, in the great island room.
 
-![X=993 Y=83 Z=-687](12c)
+![X=1048 Y=75 Z=-739](12c)
 
-To the right inside the caverns leading to the final chapter at the bottom of the great island room.
-
-![X=1048 Y=75 Z=-739](12d)
-
-Reward for the fourth riddle, next to the previous emerald.
+Reward for the fourth riddle, inside the caverns leading to the final chapter at the bottom of the great island room.
 
 ![X=879 Y=126 Z=-717](12e)
 
@@ -372,7 +369,7 @@ On an island midway in the great room.
 
 In the teleporter maze, going forward twice, in the flooded room going left then going up in the glass floors room.
 
-# Brown - 8 Emeralds (92)
+# Brown - 7 Emeralds (90)
 
 ![X=-53 Y=159 Z=582 X2=-64 Y2=159 Z2=566 X3=-53 Y3=159 Z3=550 Void Dimension](13a)
 
@@ -390,15 +387,11 @@ To the far left of the Lightless Halls.
 
 To the middle right of the Lightless Halls.
 
-![X=787 Y=151 Z=-1250](13e)
-
-On the top floor of the Library of Horror.
-
 ![X=808 Y=122 Z=-1340](13f)
 
 Reward for the fifth riddle, to the right of the theatre stage.
 
-# Green - 6 Emeralds (98)
+# Green - 6 Emeralds (96)
 
 ![X=940 Y=55 Z=-1004](14a)
 
@@ -424,7 +417,7 @@ Inside a room next to a courtyard with a giant tree on the far right side of the
 
 In a side room on the left side of the Cathedral of Yaaros.
 
-# Red - 12 Emeralds (110)
+# Red - 12 Emeralds (108)
 
 ![X=71 Y=203 Z=83](15a)
 
@@ -474,7 +467,7 @@ Taking the left stairway from the central room, going on the right path to the b
 
 Taking the right stairway from the central room, to the end of the teetering bridge.
 
-# Black - 5 Emeralds (115)
+# Black - 5 Emeralds (113)
 
 ![X=-287 Y=114 Z=748](16a)
 
