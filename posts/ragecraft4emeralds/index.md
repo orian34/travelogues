@@ -43,7 +43,7 @@ Past the pond at the bottom of the ravine in The Nexus.
 
 Past the tree bridge at the end of Reeking Ravine.
 
-# Orange - 5 Emeralds (11)
+# Orange - 5 Emeralds (11) - 1 Rune Keeper
 
 ![X=66 Y=140 Z=-28](2a)
 
@@ -65,7 +65,11 @@ In the training grounds to the right when going down the brewery.
 
 At the very bottom of the brewery.
 
-# Magenta - 8 Emeralds (19)
+![X=44 Y=136 Z=-249](2f)
+
+Rune Keeper to the right from the ledge overlooking Illager's Keep
+
+# Magenta - 8 Emeralds (19) - 1 Rune Keeper
 
 ![X=-98 Y=60 Z=-228](3a)
 
@@ -74,6 +78,10 @@ In a small pocket on the left of the forest layer.
 ![X=3 Y=50 Z=-151](3b)
 
 Reward for the first riddle, near the previous emerald.
+
+![X=-98 Y=84 Z=-367](3i)
+
+Rune Keeper behind the watchtower on the forest layer.
 
 ![X=-69 Y=101 Z=-162](3c)
 
@@ -99,7 +107,7 @@ In the right aisle of the castle next to the crypt.
 
 Inside the room of the Crypt Key.
 
-# Light Blue - 10 Emeralds (29)
+# Light Blue - 10 Emeralds (29) - 1 Rune Keeper
 
 ![X=109 Y=74 Z=-267](4a)
 
@@ -108,6 +116,10 @@ On the left side of the ruins in the jungle.
 ![X=102 Y=31 Z=-333](4b)
 
 In a cavern under the ruins in the jungle.
+
+![X=108 Y=67 Z=-108](4k)
+
+Rune Keeper in a cavern next to the ruins leading to the teleporter.
 
 ![X=169 Y=30 Z=-201](4c)
 
@@ -141,7 +153,11 @@ At the highest position of the bastion above the objective.
 
 In an upper cavern on the left side of the bastion past a bridge.
 
-# Yellow - 8 Emeralds (37)
+# Yellow - 8 Emeralds (37) - 1 Rune Keeper
+
+![X=236 Y=120 Z=-260](5i)
+
+Rune Keeper at the end of the path, coming from above the teleporter or the waterfall near the spider cave in Boombog Bastion's jungle.
 
 ![X=181 Y=166 Z=-300](5a)
 
