@@ -9,7 +9,6 @@ date: "2024-07-02"
 aliases:
     - /stranded/
 search: false
-hide: true
 ---
 >Map Author: SwarmOfBears  
 Origin: [Map Link]()  
