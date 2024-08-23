@@ -5,13 +5,12 @@ description: In-depth feedback and overview of the map.
 categories: [review, ctm, minecraft]
 title: Review of Stranded
 image: thumbnail.png
-date: "2024-07-02"
+date: "2024-08-24"
 aliases:
     - /stranded/
-search: false
 ---
 >Map Author: SwarmOfBears  
-Origin: [Map Link]()  
+Origin: [Map Link](https://ctmrepository.com/index.php?action=viewMap&id=629)  
 Versions: MC = 1.20.4 - Map = Beta
 
 # Presentation
@@ -77,7 +76,7 @@ Loving the way the keys were integrated here, I got spooked by the boss early on
 
 ![Polluted paradise.](10)
 
-It's a really massive area, with several subsections acting as mini areas. The build up leading to the city makes the reveal that much stronger, and damn those bombers are terrifying. The layout was a really good impression of chaotic city streets and being hunted from above. It was a difficult area but not too unfair, only asterisk being dropping your items in unclaimed streets while falling from the roof makes it specially hard to gather the gear back - but at this point it's just part of my usual rant on death systems. [The boss is something else](https://youtu.be/CKGDvM23kVk), it's where the map brings out the sekiro, my no armor build gets folded in thousand cranes - clearly I have to change strategies. Past the initial wall crash, the boss is actually really fun and it kinda makes me sad that minecraft jank combat holds back the map from its best designs.
+It's a really massive area, with several subsections acting as mini areas. The build up leading to the city makes the reveal that much stronger, and damn those bombers are terrifying. The layout was a really good impression of chaotic city streets and being hunted from above. It was a difficult area but not too unfair, only asterisk being dropping your items in unclaimed streets while falling from the roof makes it specially hard to gather the gear back - but at this point it's just part of my usual rant on death systems. [The boss is something else](https://youtu.be/CKGDvM23kVk), it's where the map brings out the Sekiro, my no armor build gets folded in thousand cranes - clearly I have to change strategies. Past the initial wall crash, the boss is actually really fun and it kinda makes me sad that minecraft jank combat holds back the map from its best designs.
 
 ### 11 - River Styx
 
