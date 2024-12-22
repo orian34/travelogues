@@ -49,10 +49,11 @@ Hopefully this provides interesting material for the interested. - orian34
 
 ### Minecraft
 
->???
-
 >Across The Time 2 - Time For Regrets. As contributor.
-[An amazing map where I made a small spell mod to discover secrets.](https://www.curseforge.com/minecraft/worlds/across-the-time-2-time-for-regrets)
+[An amazing map where I made a small spell mod to discover secrets, which then was integrated into the map.](https://www.curseforge.com/minecraft/worlds/across-the-time-2-time-for-regrets)
+
+>Absolution. As participant.
+[A community CTM map for Minecraft. Did the initial concept for an area.](https://ctmrepository.com/index.php?action=viewMap&id=643)
 
 >Mapwreck 6 - Sunset to Sentience. As participant.
 [An event CTM map for Minecraft. Made an area in a week, another great boom of datapacks. Once again with issues but this time I made a more qualitative work.](https://ctmrepository.com/index.php?action=viewMap&id=518)
