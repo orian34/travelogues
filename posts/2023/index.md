@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: post
 description: A look back to all the games and content experienced through the year.
 categories: [talk, ctm, minecraft, game, review]
@@ -195,7 +196,7 @@ Of course this is a wholly subjective evaluation and might include elements from
 
 ### Titles
 
-- **Avant-Guarde**
+- **Avant-Garde**
   - Sanctimonious Rhapsody 3: Revelations was a real moment. With unusual textures and sounds, it really pushed how a ctm map can feel like and play. The final wool was a great challenge to overcome.
 
 - **Paradigm Shift**
