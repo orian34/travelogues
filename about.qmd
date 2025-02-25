@@ -16,6 +16,9 @@ Hopefully this provides interesting material for the interested. - orian34
 >Ring of Pain. As game designer, tester, and community manager. Also wrote several steam guides.
 [A gritty roguelike, making your way through rings of cards against deadly foes and strange creatures.](https://store.steampowered.com/app/998740/Ring_of_Pain/)
 
+>OmOneko. As coder.
+[A visual novel where you learn to see beyond appearances. Spiritual successor of Katawa Shoujo.](https://store.steampowered.com/app/3465450/OmOneko/)
+
 ### Writing
 
 >Epics and Stories. As creator.
@@ -25,6 +28,12 @@ Hopefully this provides interesting material for the interested. - orian34
 [A community with many modded Minecraft servers hosting modpacks for people to play.](https://valhallamc.io/)
 
 ### Mods
+
+>Agora Mystica. As creator.
+[A new archetype mod for Spellforce - Conquest of Eo. It adds a brand new dreams crafting archetype to play the game anew with.](https://www.nexusmods.com/spellforceconquestofeo/mods/59/)
+
+>Not Even Bones. As creator.
+[A scarcity mod for Spellforce - Conquest of Eo. It removes all enemy loot to severely restrict your resources and make it more challenging.](https://www.nexusmods.com/spellforceconquestofeo/mods/58/)
 
 >07th-Mod. As script editing, animations, and PS3 matching.
 [Full conversion fan patches for the Higurashi - When They Cry visual novels. Adds console graphics, voices, arcs, and much more.](https://07th-mod.com/wiki/)
@@ -51,6 +60,12 @@ Hopefully this provides interesting material for the interested. - orian34
 
 >Across The Time 2 - Time For Regrets. As contributor.
 [An amazing map where I made a small spell mod to discover secrets, which then was integrated into the map.](https://www.curseforge.com/minecraft/worlds/across-the-time-2-time-for-regrets)
+
+>Transmocrafter. As creator.
+[A datapack for Minecraft maps. Overhauls the smithing table to allow upgrading and transfer of data for your gear.](https://www.curseforge.com/minecraft/customization/transmocrafter)
+
+>Death Toll. As creator.
+[A death datapack for Minecraft maps. Adds a different way to handle inventory on death, having the convenience of keep inventory while keeping some risk involved.](https://github.com/orian34/deathToll)
 
 >Absolution. As participant.
 [A community CTM map for Minecraft. Did the initial concept for an area.](https://ctmrepository.com/index.php?action=viewMap&id=643)
@@ -84,9 +99,3 @@ Hopefully this provides interesting material for the interested. - orian34
 
 >Trial By Fire. As co-creator.
 [A CTM map for Minecraft. Very first CTM, made with Cango, our beginning steps in mapping.](https://ctmrepository.com/index.php?action=viewMap&id=348)
-
->Transmocrafter. As creator.
-[A datapack for Minecraft maps. Overhauls the smithing table to allow upgrading and transfer of data for your gear.](https://www.curseforge.com/minecraft/customization/transmocrafter)
-
->Death Toll. As creator.
-[A death datapack for Minecraft maps. Adds a different way to handle inventory on death, having the convenience of keep inventory while keeping some risk involved.](https://github.com/orian34/deathToll)
