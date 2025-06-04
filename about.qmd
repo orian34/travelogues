@@ -29,11 +29,11 @@ Hopefully this provides interesting material for the interested. - orian34
 
 ### Mods
 
->Agora Mystica. As creator.
-[A new archetype mod for Spellforce - Conquest of Eo. It adds a brand new dreams crafting archetype to play the game anew with.](https://www.nexusmods.com/spellforceconquestofeo/mods/59/)
+>[Agora Mystica](https://www.nexusmods.com/spellforceconquestofeo/mods/59) & [Lunar Augur](https://www.nexusmods.com/spellforceconquestofeo/mods/73). As creator.
+A new archetype mod for Spellforce - Conquest of Eo. It adds a brand new dreams crafting archetype to play the game anew with. Lunar Augur is a complimentary mod for the third DLC, improving on the new mechanics.
 
->Not Even Bones. As creator.
-[A scarcity mod for Spellforce - Conquest of Eo. It removes all enemy loot to severely restrict your resources and make it more challenging.](https://www.nexusmods.com/spellforceconquestofeo/mods/58/)
+>[Not Even Bones](https://www.nexusmods.com/spellforceconquestofeo/mods/58) & [Mortal Taxes](https://www.nexusmods.com/spellforceconquestofeo/mods/69) & [Guarded](https://www.nexusmods.com/spellforceconquestofeo/mods/70). As creator.
+A collection of challenge mods for Spellforce - Conquest of Eo. It removes all enemy loot, adds more enemies on resources, and adds a recruitment cost to units. Made to have a high scarcity and difficulty.
 
 >07th-Mod. As script editing, animations, and PS3 matching.
 [Full conversion fan patches for the Higurashi - When They Cry visual novels. Adds console graphics, voices, arcs, and much more.](https://07th-mod.com/wiki/)
