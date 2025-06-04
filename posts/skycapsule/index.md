@@ -126,7 +126,7 @@ It's still taking forever, I need to upgrade my gear even more, I still have the
 
 ![Die! Die! Die!](f4)
 
-### Pulled Out
+### Fallout
 
 Now that it got done, I finally have the ultimate machine that creates stacks of anything I put inside, the final challenge is here! I explode my EMC generation and even setup an automatic one while I look into the big recipes, seems like they will require doing stuff in mods that were neglected until now.
 
