@@ -52,7 +52,7 @@ For the second half of the tens however, things become slightly more complicated
 
 So for 16, you will have thumb removed index half (and implicitly all three remaining fingers pointed, which is the case whenever a finger is mentioned while removed), 17 is thumb removed middle half, 18 is thumb removed ring half, 19 is thumb removed pinky half.
 
-With this, we circle back and start anew for 21 with index pointed thumb half (the tens finger is mentioned first to keep things clear). Skipping 22 this time, the rest follows the same rules as before. 50 and beyond being the same pattern with the hand in down position instead, an extra rule is necessary to balance the fact the mirror number is in the latter half. We will signify the first 4 numbers with the pattern. Then proceed with the 4 remaining ones in inverted pattern, but starting from 5.
+With this, we circle back and start anew for 21 with index pointed thumb half (the tens finger is mentioned first to keep things clear). Skipping 22 this time, the rest follows the same rules as before. 60 and beyond being the same pattern with the hand in down position instead, an extra rule is necessary to balance the fact the mirror number is in the latter half. We will signify the first 4 numbers with the pattern. Then proceed with the 4 remaining ones in inverted pattern, but starting from 5.
 
 So 81 is middle pointed thumb half down, 82 is middle pointed index half down, 83 is middle pointed ring half down, and 84 is middle pointed pinky half down. For the second part, 85 is middle removed thumb half down, 86 is middle removed index half down, 87 is middle removed ring half down, skipping 88 as the mirror number(middle half down), and 89 is middle removed pinky half down.
 
