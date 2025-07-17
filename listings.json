@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/words/index.html",
       "/posts/skycapsule/index.html",
       "/posts/glacialawakening/index.html",
       "/posts/100/index.html",
